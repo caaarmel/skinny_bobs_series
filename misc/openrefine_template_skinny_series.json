@@ -1,0 +1,428 @@
+[
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "DATE",
+          "expression": "isBlank(value)",
+          "columnName": "DATE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "DATE",
+          "expression": "isBlank(value)",
+          "columnName": "DATE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "POSITION",
+          "expression": "value",
+          "columnName": "POSITION",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "POSITION",
+                "l": "POSITION"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "DATE",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column DATE using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "PRIZE",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column PRIZE using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "POINTS",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column POINTS using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "POSITION",
+    "newColumnName": "POSITION_ORIG",
+    "description": "Rename column POSITION to POSITION_ORIG"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "POSITION_ORIG",
+    "expression": "grel:if(value == 'WINNER', 1,\n  if(value == '2nd', 2,\n    if(value == '3rd', 3,\n      if(value == '4th', 4,\n        if(value == '5-6', 5,\n          if(value == '7-8', 7,\n            if(value == '9-12', 9,\n              if(value == '13-16', 13,\n                if(value == '17-24', 17,\n                  if(value == '25-32', 25,\n                    if(value == '33-48', 33, value)\n)))))))))))",
+    "onError": "set-to-blank",
+    "newColumnName": "POSITION_STD",
+    "columnInsertIndex": 10,
+    "description": "Create column POSITION_STD at index 10 based on column POSITION_ORIG using expression grel:if(value == 'WINNER', 1,\n  if(value == '2nd', 2,\n    if(value == '3rd', 3,\n      if(value == '4th', 4,\n        if(value == '5-6', 5,\n          if(value == '7-8', 7,\n            if(value == '9-12', 9,\n              if(value == '13-16', 13,\n                if(value == '17-24', 17,\n                  if(value == '25-32', 25,\n                    if(value == '33-48', 33, value)\n)))))))))))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ROSTER",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column ROSTER using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "TOURNEY",
+    "expression": "grel:if(or(toLowercase(value).contains(\"week\"), toLowercase(value).contains(\"monday\"), toLowercase(value).contains(\"tue\"), toLowercase(value).contains(\"tuesday\"), toLowercase(value).contains(\"wednesday\"), toLowercase(value).contains(\"thursday\"), toLowercase(value).contains(\"friday\")), 1,0)",
+    "onError": "set-to-blank",
+    "newColumnName": "IS_WEEKLY",
+    "columnInsertIndex": 1,
+    "description": "Create column IS_WEEKLY at index 1 based on column TOURNEY using expression grel:if(or(toLowercase(value).contains(\"week\"), toLowercase(value).contains(\"monday\"), toLowercase(value).contains(\"tue\"), toLowercase(value).contains(\"tuesday\"), toLowercase(value).contains(\"wednesday\"), toLowercase(value).contains(\"thursday\"), toLowercase(value).contains(\"friday\")), 1,0)"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "TOURNEY",
+    "expression": "grel:if(or(toLowercase(value).contains(\"fargo\"),toLowercase(value).contains(\"under\")), 1,0)",
+    "onError": "set-to-blank",
+    "newColumnName": "IS_HANDICAP",
+    "columnInsertIndex": 1,
+    "description": "Create column IS_HANDICAP at index 1 based on column TOURNEY using expression grel:if(or(toLowercase(value).contains(\"fargo\"),toLowercase(value).contains(\"under\")), 1,0)"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "TOURNEY",
+    "expression": "grel:if(toLowercase(value).contains(\"league\"),1,0)",
+    "onError": "set-to-blank",
+    "newColumnName": "IS_LEAGUE",
+    "columnInsertIndex": 1,
+    "description": "Create column IS_LEAGUE at index 1 based on column TOURNEY using expression grel:if(toLowercase(value).contains(\"league\"),1,0)"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "TOURNEY",
+    "expression": "grel:if(not(or(toLowercase(value).contains(\"week\"), toLowercase(value).contains(\"monday\"), toLowercase(value).contains(\"tue\"), toLowercase(value).contains(\"tuesday\"), toLowercase(value).contains(\"wednesday\"), toLowercase(value).contains(\"thursday\"), toLowercase(value).contains(\"friday\"),toLowercase(value).contains(\"series\"))),1,0)",
+    "onError": "set-to-blank",
+    "newColumnName": "IS_MONTHLY",
+    "columnInsertIndex": 1,
+    "description": "Create column IS_MONTHLY at index 1 based on column TOURNEY using expression grel:if(not(or(toLowercase(value).contains(\"week\"), toLowercase(value).contains(\"monday\"), toLowercase(value).contains(\"tue\"), toLowercase(value).contains(\"tuesday\"), toLowercase(value).contains(\"wednesday\"), toLowercase(value).contains(\"thursday\"), toLowercase(value).contains(\"friday\"),toLowercase(value).contains(\"series\"))),1,0)"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "TOURNEY",
+    "expression": "grel:if(or(toLowercase(value).contains(\"women\"),toLowercase(value).contains(\"woman\"),toLowercase(value).contains(\"ladies\"),toLowercase(value).contains(\"lady\")),\"Women\",\"Open\")",
+    "onError": "set-to-blank",
+    "newColumnName": "DIVISION",
+    "columnInsertIndex": 1,
+    "description": "Create column DIVISION at index 1 based on column TOURNEY using expression grel:if(or(toLowercase(value).contains(\"women\"),toLowercase(value).contains(\"woman\"),toLowercase(value).contains(\"ladies\"),toLowercase(value).contains(\"lady\")),\"Women\",\"Open\")"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "DIVISION",
+    "index": 16,
+    "description": "Move column DIVISION to position 16"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "IS_MONTHLY",
+    "index": 16,
+    "description": "Move column IS_MONTHLY to position 16"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "IS_WEEKLY",
+    "index": 16,
+    "description": "Move column IS_WEEKLY to position 16"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "IS_LEAGUE",
+    "index": 16,
+    "description": "Move column IS_LEAGUE to position 16"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "IS_HANDICAP",
+    "index": 16,
+    "description": "Move column IS_HANDICAP to position 16"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "DATE",
+    "expression": "grel:value.datePart(\"year\")",
+    "onError": "set-to-blank",
+    "newColumnName": "SERIES_SEASON",
+    "columnInsertIndex": 2,
+    "description": "Create column SERIES_SEASON at index 2 based on column DATE using expression grel:value.datePart(\"year\")"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "SERIES_SEASON",
+    "index": 0,
+    "description": "Move column SERIES_SEASON to position 0"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "POINTS",
+    "expression": "null",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column POINTS using expression null"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "FULL NAME",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Anastacio Tijerina",
+          "Anastacio Tigerina",
+          "Anastacio Tijgerina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anastacio Tijerina"
+      },
+      {
+        "from": [
+          "Anastacio Tijerina",
+          "Anastacio Tijgerina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anastacio Tijerina"
+      },
+      {
+        "from": [
+          "Anastacio Tigerina",
+          "Anastacio Tijgerina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anastacio Tigerina"
+      },
+      {
+        "from": [
+          "Minh Phan",
+          "Minh Pham"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Minh Phan"
+      },
+      {
+        "from": [
+          "Scotty Scheur",
+          "Scott Scheur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Scotty Scheur"
+      },
+      {
+        "from": [
+          "Cali Moore",
+          "Calie Moore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cali Moore"
+      }
+    ],
+    "description": "Mass edit cells in column FULL NAME"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "FULL NAME",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Anastacio Tijerina",
+          "Anastacio Tigerina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anastacio Tijerina"
+      }
+    ],
+    "description": "Mass edit cells in column FULL NAME"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "FULL NAME",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Brenan McEntee",
+          "Brendan Mcentee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brenan McEntee"
+      },
+      {
+        "from": [
+          "Joe Nasser",
+          "Joe Nassar"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joe Nasser"
+      },
+      {
+        "from": [
+          "Lisa Russey",
+          "Lisa Russy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lisa Russey"
+      }
+    ],
+    "description": "Mass edit cells in column FULL NAME"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "FULL NAME",
+    "expression": "grel:value.split(\" \").slice(1).join(\" \")",
+    "onError": "set-to-blank",
+    "newColumnName": "LAST_NAME",
+    "columnInsertIndex": 6,
+    "description": "Create column LAST_NAME at index 6 based on column FULL NAME using expression grel:value.split(\" \").slice(1).join(\" \")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "FULL NAME",
+    "expression": "grel:value.split(\" \")[0]",
+    "onError": "set-to-blank",
+    "newColumnName": "FIRST_NAME",
+    "columnInsertIndex": 6,
+    "description": "Create column FIRST_NAME at index 6 based on column FULL NAME using expression grel:value.split(\" \")[0]"
+  }
+]

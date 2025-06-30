@@ -1,0 +1,18 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		}
+	],
+    "settings": {
+        "sqltools.useNodeRuntime": true,
+        "sqltools.connections": [
+            {
+                "previewLimit": 50,
+                "driver": "SQLite",
+                "name": "skinnybobs",
+                "database": "${workspaceFolder:25 - Skinny Series}/dev/db/skinnybobs.db"
+            }
+        ]
+    }
+}

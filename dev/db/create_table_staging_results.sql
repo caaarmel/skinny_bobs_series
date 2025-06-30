@@ -1,0 +1,31 @@
+DROP TABLE IF EXISTS staging_results;
+
+CREATE TABLE staging_results (
+    ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    tourney TEXT,
+    tourney_clean TEXT,
+    date TEXT,
+    game TEXT,
+    format TEXT,
+    full_name TEXT,
+    full_name_clean TEXT,
+    first_name TEXT,
+    last_name TEXT,
+    alias TEXT,
+    skill TEXT,
+    prize REAL,
+    points INTEGER,
+    position TEXT,
+    position_std INTEGER,
+    roster INTEGER,
+    is_weekly BOOLEAN,
+    is_monthly BOOLEAN,
+    is_major BOOLEAN,
+    is_series BOOLEAN,
+    is_league BOOLEAN,
+    is_handicap BOOLEAN,
+    source_id INTEGER NOT NULL,
+    created_at TEXT DEFAULT (datetime('now')),
+    processed_datetime,
+    FOREIGN KEY (source_id) REFERENCES source_raw_results(ID)
+);

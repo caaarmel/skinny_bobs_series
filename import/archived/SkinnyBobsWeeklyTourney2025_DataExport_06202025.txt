@@ -1,0 +1,1689 @@
+TOURNEY	DATE	GAME	FORMAT	FULL NAME	ALIAS	SKILL	PRIZE	POINTS	POSITION	ROSTER
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	6	WINNER	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 634	0.00	5	2nd	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Thomas Pearce	Tom Pearce	FARGO: 430	0.00	4	3rd	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 582	0.00	3	4th	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Aseem Grover	A Grover	FARGO: 551	0.00	2	5-6	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Brandon Powers	Brandon Powe	FARGO: 512	0.00	2	5-6	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 589	0.00	1	7-8	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	FARGO: 472	0.00	1	7-8	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 650	0.00	1	9-12	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	Daniel Perez	Daniel Perez	FARGO: 635	0.00	1	9-12	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	David Sanders	David Sander	FARGO: 483	0.00	1	9-12	12
+Tuesday_Split_Tournament_1-7-25	Jan 07/25	9 Ball	Double	David Hutchins	David Hutch	FARGO: 323	0.00	1	9-12	12
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Eric Aicinena	E Aicinena	FARGO: 740	0.00	6	WINNER	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	5	2nd	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 486	0.00	4	3rd	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Kevin Welling	K Welling	FARGO: 639	0.00	3	4th	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Mille Almaraz	Mille Almara	FARGO: 579	0.00	2	5-6	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Irving Gamez	Irving Gamez	FARGO: 478	0.00	2	5-6	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Michael Maloney	Micheal Malo	FARGO: 536	0.00	1	7-8	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 633	0.00	1	7-8	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	FARGO: 471	0.00	1	9-12	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Jason Wagner	Jason Wagner	FARGO: 433	0.00	1	9-12	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Zach Harris	Zach Harris	FARGO: 431	0.00	1	9-12	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Luke Choate	Luke Choate	FARGO: 477	0.00	1	9-12	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Chuck Allie	Chuck Allie	FARGO: 600	0.00	1	13-16	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	James Willoughby	James Willou	FARGO: 489	0.00	1	13-16	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	David Sanders	David Sander	FARGO: 482	0.00	1	13-16	16
+Tuesday_Split_Tournament_01-14-25	Jan 14/25	9 Ball	Double	Dakota Palmer	Dakota Palme	FARGO: 403	0.00	1	13-16	16
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Ian Costello	Ian Costello	FARGO: 720	0.00	6	WINNER	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Sean Nguyen	Sean Nguyen	FARGO: 473	0.00	5	2nd	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 633	0.00	4	3rd	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Beth Tindell	Beth Tindell	FARGO: 382	0.00	3	4th	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 486	0.00	2	5-6	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	FARGO: 456	0.00	2	5-6	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 583	0.00	1	7-8	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	FARGO: 658	0.00	1	7-8	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	David Sanders	David Sander	FARGO: 483	0.00	1	9-12	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Kristin Pauley	Kristin Paul	FARGO: 285	0.00	1	9-12	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Mante Li	Mante Li	FARGO: 416	0.00	1	9-12	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Zihao Li	Zihao Li	FARGO: 274	0.00	1	9-12	13
+Tuesday_Split_Tournament_01-21-25	Jan 21/25	9 Ball	Double	Max Sun	Max Sun	FARGO: 580	0.00	1	13-16	13
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Eric Aicinena	E Aicinena	FARGO: 741	0.00	6	WINNER	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Evan Keesee	Evan Keesee	FARGO: 580	0.00	5	2nd	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Mille Almaraz	Mille Almara	FARGO: 580	0.00	4	3rd	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 584	0.00	3	4th	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 651	0.00	2	5-6	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 487	0.00	2	5-6	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Daniel Perez	Daniel Perez	FARGO: 635	0.00	1	7-8	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Kevin Welling	K Welling	FARGO: 639	0.00	1	7-8	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Corey Corbin	Corey Corbin	FARGO: 369	0.00	1	9-12	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	Annie Franklin	Annie Frankl	FARGO: 130	0.00	1	9-12	11
+Tuesday_Split_Tournament_01-28-25	Jan 28/25	9 Ball	Double	David Sanders	David Sander	FARGO: 483	0.00	1	9-12	11
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 591	0.00	6	WINNER	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	FARGO: 658	0.00	5	2nd	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	4	3rd	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 651	0.00	3	4th	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Jim Miller	Jim Miller	FARGO: 607	0.00	2	5-6	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Marc Strohallen	Marc Strohal	FARGO: 502	0.00	2	5-6	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Nino Manliclic	Nino Manlicl	FARGO: 620	0.00	1	7-8	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 488	0.00	1	7-8	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	Nathan Nguyen	Nathan Nguye	FARGO: 507	0.00	1	9-12	10
+Tuesday_Split_Tournament_02-04-25	Feb 04/25	9 Ball	Double	David Hutchins	David Hutch	FARGO: 327	0.00	1	9-12	10
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 632	0.00	6	WINNER	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Tracy Sanders	Tracy Sander	FARGO: 603	0.00	5	2nd	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 489	0.00	4	3rd	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 591	0.00	3	4th	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	FARGO: 657	0.00	2	5-6	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	FARGO: 533	0.00	2	5-6	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Eric Aicinena	E Aicinena	FARGO: 740	0.00	1	7-8	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	David Sanders	David Sander	FARGO: 482	0.00	1	7-8	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Michael Koch	Michael Koch	FARGO: 588	0.00	1	9-12	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Mille Almaraz	Mille Almara	FARGO: 579	0.00	1	9-12	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	FARGO: 482	0.00	1	9-12	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Pat Castro	Chicago	FARGO: 556	0.00	1	9-12	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 652	0.00	1	13-16	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 584	0.00	1	13-16	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Tony Laudadio	T Laudadio	FARGO: 548	0.00	1	13-16	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Brian Wikert	Brian Wikert	FARGO: 521	0.00	1	13-16	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	Miguel Polanco	Miguel Polan	FARGO: 755	0.00	1	17-24	18
+Tuesday_Split_Tournament_02-11-25	Feb 11/25	9 Ball	Double	David Hutchins	David Hutch	FARGO: 326	0.00	1	17-24	18
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	James Selman	James Selman	FARGO: 533	0.00	6	WINNER	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Jim Miller	Jim Miller	FARGO: 607	0.00	5	2nd	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 547	0.00	4	3rd	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	FARGO: 590	0.00	3	4th	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 486	0.00	2	5-6	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Devin Keenan	Devin Keenan	FARGO: 456	0.00	2	5-6	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Tommy McDermott	Tommy McDerm	FARGO: 554	0.00	1	7-8	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Peter Dipaolo	Pete Dipaolo	FARGO: 379	0.00	1	7-8	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Pierre Savant	Pierre Savan	FARGO: 539	0.00	1	9-12	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	FARGO: 432	0.00	1	9-12	11
+Tuesday_Split_Tournament_02-18-25	Feb 18/25	9 Ball	Double	Sean Nguyen	Sean Nguyen	FARGO: 484	0.00	1	9-12	11
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 652	0.00	6	WINNER	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Sean Nguyen	Sean Nguyen	FARGO: 484	0.00	5	2nd	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	FARGO: 495	0.00	4	3rd	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	3	4th	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 632	0.00	2	5-6	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	James Selman	James Selman	FARGO: 533	0.00	2	5-6	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Chuck Allie	Chuck Allie	FARGO: 602	0.00	1	7-8	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Ulli Sachsenmaier	Ulli Sachsen	FARGO: 450	0.00	1	7-8	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 592	0.00	1	9-12	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Steve Nugent	Steven Nugen	FARGO: 536	0.00	1	9-12	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Justin M Davis	Justin M Dav	FARGO: 426	0.00	1	9-12	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 486	0.00	1	9-12	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 547	0.00	1	13-16	14
+Tuesday_Split_Tournament_02-25-25	Feb 25/25	9 Ball	Double	Jason Wagner	Jason Wagner	FARGO: 424	0.00	1	13-16	14
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Eric Aicinena	E Aicinena	FARGO: 739	0.00	6	WINNER	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 633	0.00	5	2nd	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Bubba Staton	Bubba Staton	FARGO: 520	0.00	4	3rd	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	3	4th	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 487	0.00	2	5-6	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Brandon Colburn	Brandon C	FARGO: 457	0.00	2	5-6	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Mille Almaraz	Mille Almara	FARGO: 580	0.00	1	7-8	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	FARGO: 497	0.00	1	7-8	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Steve Nugent	Steven Nugen	FARGO: 538	0.00	1	9-12	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Matt Wong	Matt Wong	FARGO: 580	0.00	1	9-12	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 546	0.00	1	9-12	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Rudy Longoria	Rudy L	FARGO: 501	0.00	1	9-12	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Billy Lough	Billy Lough	FARGO: 581	0.00	1	13-16	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Chuck Allie	Chuck Allie	FARGO: 600	0.00	1	13-16	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	FARGO: 658	0.00	1	13-16	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	David Sanders	David Sander	FARGO: 482	0.00	1	13-16	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	George A Torres	George Torre	FARGO: 495	0.00	1	17-24	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Joshua Miller	Josh Miller	FARGO: 389	0.00	1	17-24	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Jason Wagner	Jason Wagner	FARGO: 424	0.00	1	17-24	20
+Tue_Split_Tournament_03-11-25	Mar 11/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 491	0.00	1	17-24	20
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Daniel Perez	Daniel Perez	FARGO: 634	0.00	6	WINNER	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	5	2nd	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	FARGO: 497	0.00	4	3rd	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Zach McManus	Zach McManus	FARGO: 519	0.00	3	4th	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 653	0.00	2	5-6	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Devin Keenan	Devin Keenan	FARGO: 459	0.00	2	5-6	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Steve Nugent	Steven Nugen	FARGO: 542	0.00	1	7-8	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 592	0.00	1	7-8	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 653	0.00	1	9-12	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Chad Boyd	Chad Boyd	FARGO: 478	0.00	1	9-12	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 486	0.00	1	9-12	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Adam Arshon	Adam Arshon	FARGO: 387	0.00	1	9-12	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Aseem Grover	A Grover	FARGO: 552	0.00	1	13-16	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Stefan Mastovich	Stefan M	FARGO: 555	0.00	1	13-16	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Diana Cardona	Diana Cardon	FARGO: 370	0.00	1	13-16	16
+Tue_Split_Tournament_03-18-25	Mar 18/25	9 Ball	Double	Annie Franklin	Annie Frankl	FARGO: 143	0.00	1	13-16	16
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 654	0.00	6	WINNER	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	5	2nd	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Alan McBride	Alan McBride	FARGO: 577	0.00	4	3rd	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Bret Clifton	Bret Clifton	FARGO: 580	0.00	3	4th	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	John Eagle	John Eagle	FARGO: 611	0.00	2	5-6	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Cesar Bonezzi	Cesar B	FARGO: 351	0.00	2	5-6	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 584	0.00	1	7-8	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Matt Wong	Matt Wong	FARGO: 579	0.00	1	7-8	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Shuaipeng He	Shuaipeng He	FARGO: 457	0.00	1	9-12	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Mante Li	Mante Li	FARGO: 421	0.00	1	9-12	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Sarath Chelika	Sarath C	FARGO: 541	0.00	1	9-12	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Steve Abel	Steve Abel	FARGO: 450	0.00	1	9-12	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Tracy Sanders	Tracy Sander	FARGO: 602	0.00	1	13-16	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Robert Olvera	R Olvera	FARGO: 453	0.00	1	13-16	15
+Tue_Split_Tournament_04-01-25	Apr 01/25	9 Ball	Double	Melissa Kafa	Melissa Kafa	FARGO: 337	0.00	1	13-16	15
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Eric Aicinena	E Aicinena	FARGO: 739	0.00	6	WINNER	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	FARGO: 657	0.00	5	2nd	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Minh Phan	Minh Phan	FARGO: 542	0.00	4	3rd	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Mille Almaraz	Mille Almara	FARGO: 581	0.00	3	4th	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Darrell Smith	Darrel Smith	FARGO: 542	0.00	2	5-6	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 493	0.00	2	5-6	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 584	0.00	1	7-8	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Michael Maloney	Micheal Malo	FARGO: 537	0.00	1	7-8	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	1	9-12	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Mark Schadler	Mark S	FARGO: 434	0.00	1	9-12	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Efren Clarito	Efren Clarit	FARGO: 540	0.00	1	9-12	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	David Sanders	David Sander	FARGO: 480	0.00	1	9-12	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Jim Miller	Jim Miller	FARGO: 609	0.00	1	13-16	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Alan McBride	Alan McBride	FARGO: 578	0.00	1	13-16	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	Albert Saucedo	Albert S	FARGO: 402	0.00	1	13-16	16
+Tue_Split_Tournament_04-08-25	Apr 08/25	9 Ball	Double	David Hutchins	David Hutch	FARGO: 345	0.00	1	13-16	16
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 653	0.00	6	WINNER	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Kurt Hardeman	K Hardeman	FARGO: 515	0.00	5	2nd	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Alexander Younes	Alex Younes	FARGO: 567	0.00	4	3rd	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Alan McBride	Alan McBride	FARGO: 579	0.00	3	4th	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 550	0.00	2	5-6	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	FARGO: 487	0.00	2	5-6	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Billy Lough	Billy Lough	FARGO: 581	0.00	1	7-8	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Steve Putnam	Steve Putnam	FARGO: 407	0.00	1	7-8	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Bubba Staton	Bubba Staton	FARGO: 521	0.00	1	9-12	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 543	0.00	1	9-12	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Kerry Impson	Kerry Impson	FARGO: 505	0.00	1	9-12	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Brandon Kura	Brandon Kura	FARGO: 500	0.00	1	9-12	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Jeff Randall	Jeff Randall	FARGO: 379	0.00	1	13-16	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Tom Cortesio	Tom Cortesio	FARGO: 500	0.00	1	13-16	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	David Sanders	David Sander	FARGO: 483	0.00	1	13-16	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Tane Jericevich	Tane Jericev	FARGO: 0	0.00	1	13-16	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 592	0.00	1	17-24	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 494	0.00	1	17-24	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Annie Franklin	Annie Frankl	FARGO: 158	0.00	1	17-24	20
+Tue_Split_Tournament_04-15-25	Apr 15/25	9 Ball	Double	Mark Impson	Mark Impson	FARGO: 546	0.00	1	25-32	20
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Pierre Savant	Pierre Savan	FARGO: 542	0.00	6	WINNER	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Mark Impson	Mark Impson	FARGO: 548	0.00	5	2nd	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 592	0.00	4	3rd	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 495	0.00	3	4th	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	John Eagle	John Eagle	FARGO: 613	0.00	2	5-6	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 550	0.00	2	5-6	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Alan McBride	Alan McBride	FARGO: 578	0.00	1	7-8	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Tracy Sanders	Tracy Sander	FARGO: 600	0.00	1	7-8	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Matt Wong	Matt Wong	FARGO: 579	0.00	1	9-12	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	George A Torres	George Torre	FARGO: 500	0.00	1	9-12	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Kerry Impson	Kerry Impson	FARGO: 495	0.00	1	9-12	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Ronnie Mann	Ronnie Mann	FARGO: 503	0.00	1	9-12	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Preston Hall	Preston Hall	FARGO: 551	0.00	1	13-16	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 653	0.00	1	13-16	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Kristin Pauley	Kristin Paul	FARGO: 369	0.00	1	13-16	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Ali Majed	Ali Majed	FARGO: 468	0.00	1	13-16	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Michael Engelmann	Michael Enge	FARGO: 488	0.00	1	17-24	18
+Tue_Split_Tournament_04-22-25	Apr 22/25	9 Ball	Double	Brandon Kura	Brandon Kura	FARGO: 450	0.00	1	17-24	18
+Tue_Split_Tournament_04-29-25	Apr 29/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	FARGO: 0	0.00	6	WINNER	8
+Tue_Split_Tournament_04-29-25	Apr 29/25	9 Ball	Double	George A Torres	George Torre	FARGO: 501	0.00	5	2nd	8
+Tue_Split_Tournament_04-29-25	Apr 29/25	9 Ball	Double	Tracy Sanders	Tracy Sander	FARGO: 600	0.00	4	3rd	8
+Tue_Split_Tournament_04-29-25	Apr 29/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 585	0.00	3	4th	8
+Tue_Split_Tournament_04-29-25	Apr 29/25	9 Ball	Double	Ross Brookshire	R Brookshire	FARGO: 565	0.00	2	5-6	8
+Tue_Split_Tournament_04-29-25	Apr 29/25	9 Ball	Double	Shayla Neris	Shayla Neris	FARGO: 496	0.00	2	5-6	8
+Tue_Split_Tournament_04-29-25	Apr 29/25	9 Ball	Double	Ronnie Mann	Ronnie Mann	FARGO: 504	0.00	1	7-8	8
+Tue_Split_Tournament_04-29-25	Apr 29/25	9 Ball	Double	Ryan Machus	Ryan Machus	FARGO: 464	0.00	1	7-8	8
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Minh Phan	Minh Phan	FARGO: 543	0.00	6	WINNER	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	David Henson	David Henson	FARGO: 709	0.00	5	2nd	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Daniel Perez	Daniel Perez	FARGO: 635	0.00	4	3rd	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Pierre Savant	Pierre Savan	FARGO: 544	0.00	3	4th	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 636	0.00	2	5-6	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 559	0.00	2	5-6	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Billy Lough	Billy Lough	FARGO: 581	0.00	1	7-8	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Brian Wikert	Brian Wikert	FARGO: 517	0.00	1	7-8	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Nader Nader	Nader Nader	FARGO: 555	0.00	1	9-12	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Dean Samnang	Dean Samnang	FARGO: 326	0.00	1	9-12	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Thomas Smith	Thomas Smith	FARGO: 465	0.00	1	9-12	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Joshua Miller	Josh Miller	FARGO: 398	0.00	1	9-12	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Matt Wong	Matt Wong	FARGO: 580	0.00	1	13-16	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Josh Heidemann	Josh Heidema	FARGO: 560	0.00	1	13-16	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	David Sanders	David Sander	FARGO: 483	0.00	1	13-16	16
+Tue_Split_Tournament_05-06-25	May 06/25	9 Ball	Double	Brandon Kura	Brandon Kura	FARGO: 336	0.00	1	13-16	16
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 594	0.00	6	WINNER	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 554	0.00	5	2nd	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Jay Beeson	Jay Beeson	FARGO: 492	0.00	4	3rd	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 479	0.00	3	4th	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	FARGO: 524	0.00	2	5-6	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Ronnie Mann	Ronnie Mann	FARGO: 503	0.00	2	5-6	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 653	0.00	1	7-8	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Jeff Randall	Jeff Randall	FARGO: 384	0.00	1	7-8	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Ross Brookshire	R Brookshire	FARGO: 563	0.00	1	9-12	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Jason Wagner	Jason Wagner	FARGO: 428	0.00	1	9-12	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	Robert Olvera	R Olvera	FARGO: 449	0.00	1	9-12	12
+Tue_Split_Tournament_05-13-25	May 13/25	9 Ball	Double	David Sanders	David Sander	FARGO: 482	0.00	1	9-12	12
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Matt Wong	Matt Wong	FARGO: 580	0.00	6	WINNER	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	5	2nd	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Pierre Savant	Pierre Savan	FARGO: 545	0.00	4	3rd	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Michael Maloney	Micheal Malo	FARGO: 537	0.00	3	4th	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 637	0.00	2	5-6	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Joshua Miller	Josh Miller	FARGO: 399	0.00	2	5-6	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Chuck Allie	Chuck Allie	FARGO: 600	0.00	1	7-8	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Jeremy Hall	Jeremy Hall	FARGO: 549	0.00	1	7-8	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Melvin Cales	Melvin Cales	FARGO: 655	0.00	1	9-12	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 555	0.00	1	9-12	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Ali Majed	Ali Majed	FARGO: 457	0.00	1	9-12	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Rudy Longoria	Rudy L	FARGO: 498	0.00	1	9-12	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Michael Heaps	M Heaps	FARGO: 559	0.00	1	13-16	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 586	0.00	1	13-16	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Michael Koch	Michael Koch	FARGO: 587	0.00	1	13-16	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	FARGO: 486	0.00	1	13-16	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Pat Castro	Chicago	FARGO: 555	0.00	1	17-24	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Nick Biller	Nick Biller	FARGO: 181	0.00	1	17-24	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 498	0.00	1	17-24	20
+Tue_Split_Tournament_05-20-25	May 20/25	9 Ball	Double	Cole Christian	Cole Christi	FARGO: 436	0.00	1	17-24	20
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Tracy Sanders	Tracy Sander	FARGO: 600	0.00	6	WINNER	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Brian Sanders	Brian Sander	FARGO: 710	0.00	5	2nd	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Sean Nguyen	Sean Nguyen	FARGO: 494	0.00	4	3rd	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Ronnie Mann	Ronnie Mann	FARGO: 503	0.00	3	4th	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Jason Pyle	Jason Pyle	FARGO: 550	0.00	2	5-6	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Danny Castillo	Danny Castil	FARGO: 499	0.00	2	5-6	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Robert Tanaka	Robert Tanak	FARGO: 555	0.00	1	7-8	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Bubba Staton	Bubba Staton	FARGO: 525	0.00	1	7-8	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Ross Brookshire	R Brookshire	FARGO: 561	0.00	1	9-12	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Ali Majed	Ali Majed	FARGO: 456	0.00	1	9-12	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 484	0.00	1	9-12	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Joshua Flowers	Josh Flowers	FARGO: 456	0.00	1	9-12	13
+Tue_Split_Tournament_05-27-25	May 27/25	9 Ball	Double	Steve Abel	Steve Abel	FARGO: 543	0.00	1	13-16	13
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	David Henson	David Henson	FARGO: 714	0.00	6	WINNER	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Steve Abel	Steve Abel	FARGO: 543	0.00	5	2nd	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	4	3rd	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Brian Sanders	Brian Sander	FARGO: 710	0.00	3	4th	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 563	0.00	2	5-6	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	David Sanders	David Sander	FARGO: 483	0.00	2	5-6	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Jim Miller	Jim Miller	FARGO: 609	0.00	1	7-8	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Chris James	Chris James	FARGO: 502	0.00	1	7-8	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Eric Smith	Eric Smith	FARGO: 642	0.00	1	9-12	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Tracy Sanders	Tracy Sander	FARGO: 600	0.00	1	9-12	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Aaron Autry	Aaron Autrey	FARGO: 481	0.00	1	9-12	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 498	0.00	1	9-12	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Daniel Perez	Daniel Perez	FARGO: 636	0.00	1	13-16	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Michael Koch	Michael Koch	FARGO: 588	0.00	1	13-16	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	FARGO: 528	0.00	1	13-16	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 480	0.00	1	13-16	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Steve Cook	Steve Cook	FARGO: 550	0.00	1	17-24	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 587	0.00	1	17-24	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Becky Smith	Becky Smith	FARGO: 437	0.00	1	17-24	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Cort Westphal	Cort Westpha	FARGO: 528	0.00	1	17-24	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Shayla Neris	Shayla Neris	FARGO: 496	0.00	1	17-24	22
+Tue_Split_Tournament_06-03-25	Jun 03/25	9 Ball	Double	Taylor Meador	Taylor Meado	FARGO: 391	0.00	1	17-24	22
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	6	WINNER	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Brian Sanders	Brian Sander	FARGO: 709	0.00	5	2nd	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	FARGO: 489	0.00	4	3rd	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 480	0.00	3	4th	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	David Henson	David Henson	FARGO: 712	0.00	2	5-6	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Matt Wong	Matt Wong	FARGO: 581	0.00	2	5-6	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Stefan Mastovich	Stefan M	FARGO: 550	0.00	1	7-8	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 541	0.00	1	7-8	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Kim Sanders	Kim Sanders	FARGO: 587	0.00	1	9-12	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Jay Beeson	Jay Beeson	FARGO: 514	0.00	1	9-12	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 498	0.00	1	9-12	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Holly Maloney	Holly Malone	FARGO: 452	0.00	1	9-12	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Tracy Sanders	Tracy Sander	FARGO: 602	0.00	1	13-16	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	FARGO: 658	0.00	1	13-16	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 639	0.00	1	13-16	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Brandon Kura	Brandon Kura	FARGO: 332	0.00	1	13-16	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 559	0.00	1	17-24	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Steve Abel	Steve Abel	FARGO: 523	0.00	1	17-24	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Seth Maloney	Seth Maloney	FARGO: 276	0.00	1	17-24	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	David Sanders	David Sander	FARGO: 483	0.00	1	17-24	21
+Tue_Split_Tournament_06-10-25	Jun 10/25	9 Ball	Double	Michael Maloney	Micheal Malo	FARGO: 536	0.00	1	17-24	21
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Evan Keesee	Evan Keesee	FARGO: 586	0.00	6	WINNER	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Brian Sanders	Brian Sander	FARGO: 709	0.00	5	2nd	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	4	3rd	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	James Davis Jr	J Davis Jr	FARGO: 680	0.00	3	4th	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Daniel Perez	Daniel Perez	FARGO: 635	0.00	2	5-6	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Steve Abel	Steve Abel	FARGO: 523	0.00	2	5-6	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Billy Lough	Billy Lough	FARGO: 584	0.00	1	7-8	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Brandon Kura	Brandon Kura	FARGO: 337	0.00	1	7-8	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	FARGO: 658	0.00	1	9-12	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	FARGO: 652	0.00	1	9-12	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	FARGO: 480	0.00	1	9-12	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	FARGO: 490	0.00	1	9-12	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Aro Majumder	Aro Majumder	FARGO: 595	0.00	1	13-16	14
+Tue_Split_Tournament_06-17-25	Jun 17/25	9 Ball	Double	Austin Read	Austin Read	FARGO: 550	0.00	1	13-16	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Tommy Chaney	Tommy C	8BL AVG: 0	0.00	6	WINNER	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Robert Schneider	Robert Schne	8BL AVG: 0	0.00	5	2nd	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	James Davis Sr	Bastrop	8BL AVG: 0	0.00	4	3rd	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	3	4th	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Travis Phelps	Travis Phelp	8BL AVG: 0	0.00	2	5-6	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	8BL AVG: 0	0.00	2	5-6	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	8BL AVG: 0	0.00	1	7-8	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Julia Rapp	Julia Rapp	8BL AVG: 0	0.00	1	7-8	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	9-12	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Sarath Chelika	Sarath C	8BL AVG: 0	0.00	1	9-12	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Zach Harris	Zach Harris	8BL AVG: 0	0.00	1	9-12	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	9-12	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	13-16	14
+Weekly_Sunday_1-5-25	Jan 05/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	13-16	14
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	6	WINNER	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	5	2nd	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	James Davis Sr	Bastrop	8BL AVG: 0	0.00	4	3rd	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Michael Tran	Mike Tran	8BL AVG: 0	0.00	3	4th	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Michael Falks	Mike Falks	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Eric Hanson	Eric Hanson	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Earl Ponce	Earl Ponce	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Ernesto Arredondo	Ernesto Arre	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Tom Passow	Tom Passow	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Israel Araujo	Israel Arauj	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Vicente Torres	Vincent	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Harold Gebhardt	Harold G	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Pat Compton	Pat Compton	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Russell Litton	R Litton	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Sunday_01-12-25	Jan 12/25	9 Ball	Double	Candice Fournier	Candice	8BL AVG: 0	0.00	1	25-32	22
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	6	WINNER	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 367	0.00	5	2nd	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Pierre Savant	Pierre Savan	FARGO: 539	0.00	4	3rd	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Ian Costello	Ian Costello	FARGO: 720	0.00	3	4th	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Sean Nguyen	Sean Nguyen	FARGO: 473	0.00	2	5-6	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	John Eagle	John Eagle	FARGO: 611	0.00	2	5-6	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Brock Yoder	Brock Yoder	FARGO: 374	0.00	1	7-8	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Kevin Welling	K Welling	FARGO: 639	0.00	1	7-8	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Evan Keesee	Evan Keesee	FARGO: 580	0.00	1	9-12	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Cort Westphal	Cort Westpha	FARGO: 521	0.00	1	9-12	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Vicente Torres	Vincent	FARGO: 525	0.00	1	9-12	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Jay Tang	Jay Tang	FARGO: 545	0.00	1	9-12	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 541	0.00	1	13-16	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Earl Ponce	Earl Ponce	FARGO: 499	0.00	1	13-16	15
+Weekly_Sunday_01-19-25	Jan 19/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 550	0.00	1	13-16	15
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	Brian Wikert	Brian Wikert	FARGO: 509	0.00	6	WINNER	9
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	5	2nd	9
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 393	0.00	4	3rd	9
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	Daniel Perez	Daniel Perez	FARGO: 635	0.00	3	4th	9
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 488	0.00	2	5-6	9
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	Kevin Welling	K Welling	FARGO: 639	0.00	2	5-6	9
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	Chris Laird	Chris Laird	FARGO: 421	0.00	1	7-8	9
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	Earl Ponce	Earl Ponce	FARGO: 497	0.00	1	7-8	9
+Weekly_Sunday_02-02-25	Feb 02/25	9 Ball	Double	Jay Tang	Jay Tang	FARGO: 539	0.00	1	9-12	9
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 656	0.00	6	WINNER	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Chris Sharier	Chris Sharie	FARGO: 653	0.00	5	2nd	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Cory Quante	Corey Quante	FARGO: 642	0.00	4	3rd	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 489	0.00	3	4th	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Bernie Banawis	Bernie Bana	FARGO: 492	0.00	2	5-6	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Michael Engelmann	Michael Enge	FARGO: 461	0.00	2	5-6	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Carli Grigsby	Carli Grigsb	FARGO: 377	0.00	1	7-8	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	FARGO: 482	0.00	1	7-8	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Dan Deckard	Dan Deckard	FARGO: 480	0.00	1	9-12	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Philip Sadler	Phil Sadler	FARGO: 408	0.00	1	9-12	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 401	0.00	1	9-12	12
+Weekly_Sunday_02-09-25	Feb 09/25	9 Ball	Double	Pierre Savant	Pierre Savan	FARGO: 539	0.00	1	9-12	12
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	6	WINNER	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Corey Quante	Corey Quante	FARGO: 642	0.00	5	2nd	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Pierre Savant	Pierre Savan	FARGO: 539	0.00	4	3rd	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Justice Eagan	Justice Eaga	FARGO: 564	0.00	3	4th	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Dean Perry	Dean Perry	FARGO: 537	0.00	2	5-6	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Louis Salinas	Louis Salina	FARGO: 521	0.00	2	5-6	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Israel Araujo	Israel Arauj	FARGO: 499	0.00	1	7-8	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Mark Lee	Mark Lee	FARGO: 528	0.00	1	7-8	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 396	0.00	1	9-12	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Ali Ballou	Ali Ballou	FARGO: 349	0.00	1	9-12	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Brandon Powers	Brandon Powe	FARGO: 511	0.00	1	9-12	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Michael Chaison	Michael C	FARGO: 550	0.00	1	9-12	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 547	0.00	1	13-16	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	FARGO: 483	0.00	1	13-16	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Tom Passow	Tom Passow	FARGO: 515	0.00	1	13-16	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Darrell Smith	Darrel Smith	FARGO: 544	0.00	1	13-16	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Bernie Banawis	Bernie Bana	FARGO: 492	0.00	1	17-24	18
+Weekly_Sunday_02-23-25	Feb 23/25	9 Ball	Double	Ethan Hartlief	Ethan H	FARGO: 421	0.00	1	25-32	18
+Weekly_Sunday_03-02-25	Mar 02/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	6	WINNER	6
+Weekly_Sunday_03-02-25	Mar 02/25	9 Ball	Double	Bernie Banawis	Bernie Bana	FARGO: 492	0.00	5	2nd	6
+Weekly_Sunday_03-02-25	Mar 02/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 396	0.00	4	3rd	6
+Weekly_Sunday_03-02-25	Mar 02/25	9 Ball	Double	Pierre Savant	Pierre Savan	FARGO: 539	0.00	3	4th	6
+Weekly_Sunday_03-02-25	Mar 02/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	FARGO: 588	0.00	2	5-6	6
+Weekly_Sunday_03-02-25	Mar 02/25	9 Ball	Double	Cody Martin	Cody Martin	FARGO: 550	0.00	2	5-6	6
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	Michael Engelmann	Michael Enge	FARGO: 461	0.00	6	WINNER	9
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	FARGO: 482	0.00	5	2nd	9
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	Darrell Smith	Darrel Smith	FARGO: 543	0.00	4	3rd	9
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	FARGO: 481	0.00	3	4th	9
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	Melissa Kafa	Melissa Kafa	FARGO: 335	0.00	2	5-6	9
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	Marc Strohallen	Marc Strohal	FARGO: 485	0.00	2	5-6	9
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 400	0.00	1	7-8	9
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	1	7-8	9
+Weekly_Sunday_03-09-25	Mar 09/25	9 Ball	Double	Cesar Bonezzi	Cesar B	FARGO: 350	0.00	1	9-12	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	Pedro Oviolo	Pedro Oviolo	FARGO: 565	0.00	6	WINNER	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	5	2nd	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	Aseem Grover	A Grover	FARGO: 552	0.00	4	3rd	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	FARGO: 479	0.00	3	4th	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 544	0.00	2	5-6	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	Bernie Banawis	Bernie Bana	FARGO: 493	0.00	2	5-6	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 393	0.00	1	7-8	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	Tom Passow	Tom Passow	FARGO: 515	0.00	1	7-8	9
+Weekly_Sunday_03-16-25	Mar 16/25	9 Ball	Double	Marc Strohallen	Marc Strohal	FARGO: 484	0.00	1	9-12	9
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Angela Miles	Angela Miles	FARGO: 400	0.00	6	WINNER	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	5	2nd	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Mike Robinson	Mike R	FARGO: 503	0.00	4	3rd	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	FARGO: 586	0.00	3	4th	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 391	0.00	2	5-6	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Brandon Powers	Brandon Powe	FARGO: 511	0.00	2	5-6	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Melissa Kafa	Melissa Kafa	FARGO: 342	0.00	1	7-8	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Mark Schadler	Mark S	FARGO: 442	0.00	1	7-8	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Cesar Bonezzi	Cesar B	FARGO: 351	0.00	1	9-12	10
+Weekly_Sunday_03-23-25	Mar 23/25	9 Ball	Double	Ernesto Arredondo	Ernesto Arre	FARGO: 440	0.00	1	9-12	10
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	6	WINNER	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Michael Strickland	Michael Stri	FARGO: 346	0.00	5	2nd	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	FARGO: 479	0.00	4	3rd	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	FARGO: 586	0.00	3	4th	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Jerry Riley	Jerry Riley	FARGO: 476	0.00	2	5-6	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Bernie Banawis	Bernie Bana	FARGO: 495	0.00	2	5-6	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Jake Deruyter	Jake Deruyt	FARGO: 519	0.00	1	7-8	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	FARGO: 500	0.00	1	7-8	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Jay Tang	Jay Tang	FARGO: 536	0.00	1	9-12	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Jose Rodriguez	Jose Rodrigu	FARGO: 500	0.00	1	9-12	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Hunter Derryberry	Hunter Derry	FARGO: 557	0.00	1	9-12	12
+Weekly_Sunday_03-30-25	Mar 30/25	9 Ball	Double	Mark Schadler	Mark S	FARGO: 441	0.00	1	9-12	12
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 657	0.00	6	WINNER	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Eric Aicinena	E Aicinena	FARGO: 739	0.00	5	2nd	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 536	0.00	4	3rd	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Mark Schadler	Mark S	FARGO: 434	0.00	3	4th	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	FARGO: 635	0.00	2	5-6	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Brandon Powers	Brandon Powe	FARGO: 512	0.00	2	5-6	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Steve Putnam	Steve Putnam	FARGO: 407	0.00	1	7-8	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Mille Almaraz	Mille Almara	FARGO: 582	0.00	1	7-8	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 394	0.00	1	9-12	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	FARGO: 480	0.00	1	9-12	11
+Weekly_Sunday_04-13-25	Apr 13/25	9 Ball	Double	Robert Walker	Robert W	FARGO: 477	0.00	1	9-12	11
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 658	0.00	6	WINNER	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Noah Contreras	Noah Contrer	FARGO: 680	0.00	5	2nd	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 495	0.00	4	3rd	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Cort Westphal	Cort Westpha	FARGO: 527	0.00	3	4th	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Daniel Perez	Daniel Perez	FARGO: 634	0.00	2	5-6	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Sam Lockley	Sam Lockley	FARGO: 585	0.00	2	5-6	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	David Solomon	David Solomo	FARGO: 467	0.00	1	7-8	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	FARGO: 486	0.00	1	7-8	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Lindsey Sanders	Lindsey	FARGO: 401	0.00	1	9-12	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Bubba Staton	Bubba Staton	FARGO: 521	0.00	1	9-12	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Brandon Powers	Brandon Powe	FARGO: 512	0.00	1	9-12	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Joshua Miller	Josh Miller	FARGO: 396	0.00	1	9-12	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	FARGO: 587	0.00	1	13-16	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Michael Engelmann	Michael Enge	FARGO: 488	0.00	1	13-16	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Adam Essner	Adam Essner	FARGO: 480	0.00	1	13-16	16
+Weekly_Sunday_04-20-25	Apr 20/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 393	0.00	1	13-16	16
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Steve Abel	Steve Abel	FARGO: 347	0.00	6	WINNER	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Aseem Grover	A Grover	FARGO: 555	0.00	5	2nd	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Mark Lee	Mark Lee	FARGO: 531	0.00	4	3rd	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 392	0.00	3	4th	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	FARGO: 588	0.00	2	5-6	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	FARGO: 587	0.00	2	5-6	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Michelle Cortez	Michelle Cor	FARGO: 581	0.00	1	7-8	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Dean Perry	Dean Perry	FARGO: 537	0.00	1	7-8	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	David Solomon	David Solomo	FARGO: 467	0.00	1	9-12	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Zach Harris	Zach Harris	FARGO: 383	0.00	1	9-12	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	Ken Laney	Ken Laney	FARGO: 577	0.00	1	9-12	12
+Weekly_Sunday_04-27-25	Apr 27/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 658	0.00	1	9-12	12
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 658	0.00	6	WINNER	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Robert Walker	Robert W	FARGO: 477	0.00	5	2nd	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Chris Owens	Chris Owens	FARGO: 450	0.00	4	3rd	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	FARGO: 389	0.00	3	4th	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Aseem Grover	A Grover	FARGO: 557	0.00	2	5-6	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Ian Johnson	Ian Johnson	FARGO: 542	0.00	2	5-6	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Mike Tran	Mike Tran	FARGO: 566	0.00	1	7-8	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Neel Suthar	Neel Suthar	FARGO: 400	0.00	1	7-8	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Michael Falks	Mike Falks	FARGO: 527	0.00	1	9-12	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Mark Schadler	Mark S	FARGO: 445	0.00	1	9-12	11
+Weekly_Sunday_05-25-25	May 25/25	9 Ball	Double	Steve Abel	Steve Abel	FARGO: 542	0.00	1	13-16	11
+Weekly_Sunday_06-01-25	Jun 01/25	9 Ball	Double	Justin Espinosa	Justin Espin	FARGO: 733	0.00	6	WINNER	8
+Weekly_Sunday_06-01-25	Jun 01/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 659	0.00	5	2nd	8
+Weekly_Sunday_06-01-25	Jun 01/25	9 Ball	Double	Steve Abel	Steve Abel	FARGO: 543	0.00	4	3rd	8
+Weekly_Sunday_06-01-25	Jun 01/25	9 Ball	Double	Aseem Grover	A Grover	FARGO: 557	0.00	3	4th	8
+Weekly_Sunday_06-01-25	Jun 01/25	9 Ball	Double	Robert Walker	Robert W	FARGO: 479	0.00	2	5-6	8
+Weekly_Sunday_06-01-25	Jun 01/25	9 Ball	Double	Brandon Powers	Brandon Powe	FARGO: 516	0.00	2	5-6	8
+Weekly_Sunday_06-01-25	Jun 01/25	9 Ball	Double	Mark Schadler	Mark S	FARGO: 446	0.00	1	7-8	8
+Weekly_Sunday_06-01-25	Jun 01/25	9 Ball	Double	William Ayotte	William Ayot	FARGO: 533	0.00	1	7-8	8
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	James Davis Sr	Bastrop	FARGO: 659	0.00	6	WINNER	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	David Solomon	David Solomo	FARGO: 466	0.00	5	2nd	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	FARGO: 588	0.00	4	3rd	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	Max Sun	Max Sun	FARGO: 583	0.00	3	4th	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	Chris Owens	Chris Owens	FARGO: 600	0.00	2	5-6	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	Makenna Sanders	Makenna Sand	FARGO: 498	0.00	2	5-6	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	Mark Schadler	Mark S	FARGO: 438	0.00	1	7-8	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	Michael Rinos	M Rinos	FARGO: 438	0.00	1	7-8	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	Mark Lee	Mark Lee	FARGO: 532	0.00	1	9-12	10
+Weekly_Sunday_06-08-25	Jun 08/25	9 Ball	Double	Bernie Banawis	Bernie Bana	FARGO: 489	0.00	1	13-16	10
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Simon Ramirez	Simon Ramire	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	3	4th	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Michael A Jones	Michael J	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Michael Evans	M Evans	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Christopher Durden	Chris Durden	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Mondo Flores	Mondo Flores	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Michael Tran	Mike Tran	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Crystal Jones	Crystal J	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Frank Banda	Frank Banda	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Robert Walker	Robert W	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Deidra Fournier	Deidra Fourn	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	David Moreno	David Moreno	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Chris Laird	Chris Laird	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Jason Wagner	Jason Wagner	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Kimberli Wagner	Kim Wagner	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_1-4-25	Jan 04/25	9 Ball	Double	Jake Kaminkow	Jake Kaminko	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	6	WINNER	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	James Davis Sr	Bastrop	8BL AVG: 0	0.00	5	2nd	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	4	3rd	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	3	4th	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Michael A Jones	Michael J	8BL AVG: 0	0.00	2	5-6	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Robert Walker	Robert W	8BL AVG: 0	0.00	2	5-6	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Eric Brown	Eric Brown	8BL AVG: 0	0.00	1	7-8	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	7-8	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	9-12	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Harold Campbell	Harold C	8BL AVG: 0	0.00	1	9-12	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	9-12	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Michael Evans	M Evans	8BL AVG: 0	0.00	1	9-12	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	13-16	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	13-16	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	1	13-16	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	13-16	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Sarath Chelika	Sarath C	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Israel Araujo	Israel Arauj	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_01-11-25	Jan 11/25	9 Ball	Double	Chris Laird	Chris Laird	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	6	WINNER	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	5	2nd	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	4	3rd	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Eric Brown	Eric Brown	8BL AVG: 0	0.00	3	4th	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	2	5-6	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	2	5-6	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Cory Quante	Corey Quante	8BL AVG: 0	0.00	1	7-8	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	7-8	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Darrell Smith	Darrel Smith	8BL AVG: 0	0.00	1	9-12	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	9-12	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Simon Ramirez	Simon Ramire	8BL AVG: 0	0.00	1	9-12	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Ricky Amsden	Ricky Amsden	8BL AVG: 0	0.00	1	9-12	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Jake Kaminkow	Jake Kaminko	8BL AVG: 0	0.00	1	13-16	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Shaun Thompson	Shaun Thomps	8BL AVG: 0	0.00	1	13-16	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Robert Walker	Robert W	8BL AVG: 0	0.00	1	13-16	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	13-16	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Nick Biller	Nick Biller	8BL AVG: 0	0.00	1	17-24	18
+Weekly_Saturday_01-18-25	Jan 18/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	17-24	18
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	6	WINNER	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	5	2nd	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Shaun Thompson	Shaun Thomps	8BL AVG: 0	0.00	4	3rd	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Sam Lockley	Sam Lockley	8BL AVG: 0	0.00	3	4th	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Eric Brown	Eric Brown	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Jake Kaminkow	Jake Kaminko	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Cory Quante	Corey Quante	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Kimberly Jackson	Kimberly Jac	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Darrell Smith	Darrel Smith	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_01-25-25	Jan 25/25	9 Ball	Double	Ricky Amsden	Ricky Amsden	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Charles Swisher	Chuck Swishe	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Kevin Welling	K Welling	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	3	4th	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Travis Phelps	Travis Phelp	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Kimberly Jackson	Kimberly Jac	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Sam Lockley	Sam Lockley	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Mohammad Fuad	Fuad M	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Marc Strohallen	Marc Strohal	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Tommy Chaney	Tommy C	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Eric Brown	Eric Brown	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Pete Baza	Pete Baza	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Sarath Chelika	Sarath C	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_02-01-25	Feb 01/25	9 Ball	Double	Kiengchay Gomez	Kitty Gomez	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Steve Kolecki	Steve Ko	8BL AVG: 0	0.00	6	WINNER	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	5	2nd	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	4	3rd	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	3	4th	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Eric Brown	Eric Brown	8BL AVG: 0	0.00	2	5-6	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	2	5-6	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Lindsey Sanders	Lindsey	8BL AVG: 0	0.00	1	7-8	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	7-8	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	1	9-12	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	9-12	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	9-12	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	9-12	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	13-16	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Ashlie Moreno	Ashlie Moren	8BL AVG: 0	0.00	1	13-16	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	1	13-16	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Justin Schillinger	Justin Schil	8BL AVG: 0	0.00	1	13-16	17
+Weekly_Saturday_02-08-25	Feb 08/25	9 Ball	Double	Hugo Flores	Hugo Flores	8BL AVG: 0	0.00	1	17-24	17
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Miguel Polanco	Miguel Polan	8BL AVG: 0	0.00	6	WINNER	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	5	2nd	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Mohammad Fuad	Fuad M	8BL AVG: 0	0.00	4	3rd	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	3	4th	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	2	5-6	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	2	5-6	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	7-8	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	7-8	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Shaun Thompson	Shaun Thomps	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Eric Brown	Eric Brown	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Steve Nugent	Steven Nugen	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Shayla Neris	Shayla Neris	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Tommy Chaney	Tommy C	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Kimberly Jackson	Kimberly Jac	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Saturday_02-22-25	Feb 22/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	6	WINNER	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Carlos Cruz	Carlos Cruz	8BL AVG: 0	0.00	5	2nd	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	4	3rd	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	3	4th	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Ricky Amsden	Ricky Amsden	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Matthew Wilson	Mathew Wilso	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Darrell Smith	Darrel Smith	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_03-01-25	Mar 01/25	9 Ball	Double	David Vasquez	David Vasque	8BL AVG: 0	0.00	1	25-32	22
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	6	WINNER	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	5	2nd	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	4	3rd	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	3	4th	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	2	5-6	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	2	5-6	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Michael D Taylor	Mike Taylor	8BL AVG: 0	0.00	1	7-8	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	7-8	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	9-12	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	9-12	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	9-12	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	9-12	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	13-16	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	1	13-16	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	13-16	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	13-16	17
+Weekly_Saturday_03-08-25	Mar 08/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	17-24	17
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	6	WINNER	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Eric Aicinena	E Aicinena	8BL AVG: 0	0.00	5	2nd	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	4	3rd	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	3	4th	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Carlos Cruz	Carlos Cruz	8BL AVG: 0	0.00	2	5-6	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Mille Almaraz	Mille Almara	8BL AVG: 0	0.00	2	5-6	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	7-8	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Shayla Neris	Shayla Neris	8BL AVG: 0	0.00	1	7-8	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Harold Campbell	Harold C	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Corey Dordek	Corey Dordek	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Sahil Hingorani	Sahil Hingor	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_03-15-25	Mar 15/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Bubba Staton	Bubba Staton	8BL AVG: 0	0.00	6	WINNER	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	5	2nd	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	4	3rd	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Bryan Parker	Bryan Parker	8BL AVG: 0	0.00	3	4th	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	2	5-6	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Luke Anderson	Luke A	8BL AVG: 0	0.00	2	5-6	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	7-8	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	7-8	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Mary Monroe	Mary Monroe	8BL AVG: 0	0.00	1	9-12	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Shannyn Brumbaugh	Shannyn Brum	8BL AVG: 0	0.00	1	9-12	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Steve Nugent	Steven Nugen	8BL AVG: 0	0.00	1	9-12	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Eugene Brumbaugh	Gene Brumbau	8BL AVG: 0	0.00	1	13-16	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	15
+Weekly_Saturday_03-22-25	Mar 22/25	9 Ball	Double	Jesus Melendez	J Melendez	8BL AVG: 0	0.00	1	13-16	15
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	6	WINNER	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Steve Kolecki	Steve Ko	8BL AVG: 0	0.00	5	2nd	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	4	3rd	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	3	4th	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Joe Walker	Joe Walker	8BL AVG: 0	0.00	2	5-6	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	2	5-6	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	7-8	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	7-8	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Eddie Palmer Sr	Eddie Palmer	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Bubba Staton	Bubba Staton	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Lavarr Wesley	Lavar Wesley	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Mondo Flores	Mondo Flores	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Diana Cardona	Diana Cardon	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_03-29-25	Mar 29/25	9 Ball	Double	Juan Esparza	Juan Esparza	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	6	WINNER	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Eylul Kibaroglu	Lulu Kibaro	8BL AVG: 0	0.00	5	2nd	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Ronnie Mann	Ronnie Mann	8BL AVG: 0	0.00	4	3rd	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	3	4th	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Mike Tran	Mike Tran	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Alan McBride	Alan McBride	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Ashley Julian	Ashley Julia	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Darrell Smith	Darrel Smith	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Diana Cardona	Diana Cardon	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_04-05-25	Apr 05/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	6	WINNER	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	5	2nd	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	4	3rd	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	3	4th	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	2	5-6	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Cort Westphal	Cort Westpha	8BL AVG: 0	0.00	2	5-6	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	7-8	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	1	7-8	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Steve Putnam	Steve Putnam	8BL AVG: 0	0.00	1	9-12	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	9-12	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	8BL AVG: 0	0.00	1	9-12	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	9-12	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	13-16	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	13-16	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	13-16	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Diana Cardona	Diana Cardon	8BL AVG: 0	0.00	1	17-24	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	17-24	19
+Weekly_Saturday_04-12-25	Apr 12/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	19
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	6	WINNER	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	5	2nd	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	4	3rd	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	3	4th	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Jeff Reamer	Jeff Reamer	8BL AVG: 0	0.00	2	5-6	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Alan McBride	Alan McBride	8BL AVG: 0	0.00	2	5-6	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	7-8	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	7-8	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	9-12	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Melvin Cales	Melvin Cales	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	13-16	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Manny Moreno	Manny Moreno	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Jay McCollum	Jay McCollum	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Cort Westphal	Cort Westpha	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_04-19-25	Apr 19/25	9 Ball	Double	Danny Castillo	Danny Castil	8BL AVG: 0	0.00	1	17-24	20
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	6	WINNER	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Melvin Cales	Melvin Cales	8BL AVG: 0	0.00	5	2nd	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	4	3rd	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Mike Lindell	Mike Lindell	8BL AVG: 0	0.00	3	4th	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	2	5-6	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	2	5-6	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Hunter Derryberry	Hunter Derry	8BL AVG: 0	0.00	1	7-8	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Danny Castillo	Danny Castil	8BL AVG: 0	0.00	1	7-8	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	9-12	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	9-12	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	13-16	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Steve Abel	Steve Abel	8BL AVG: 0	0.00	1	13-16	15
+Weekly_Saturday_04-26-25	Apr 26/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	13-16	15
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	6	WINNER	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	5	2nd	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Chris Vaclavik	Chris V	8BL AVG: 0	0.00	4	3rd	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	3	4th	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Mohammad Fuad	Fuad M	8BL AVG: 0	0.00	2	5-6	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	2	5-6	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Luke Anderson	Luke A	8BL AVG: 0	0.00	1	7-8	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	7-8	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	9-12	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Robert Olvera	R Olvera	8BL AVG: 0	0.00	1	9-12	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Mark Bozyk	Mark Bozyk	8BL AVG: 0	0.00	1	9-12	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	9-12	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	13-16	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	13-16	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Hamza Alhourani	Hamza Alhour	8BL AVG: 0	0.00	1	13-16	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	17-24	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Jason Wagner	Jason Wagner	8BL AVG: 0	0.00	1	17-24	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Jason Cano	Jason Cano	8BL AVG: 0	0.00	1	17-24	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	17-24	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Kimberli Wagner	Kim Wagner	8BL AVG: 0	0.00	1	17-24	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Hunter Derryberry	Hunter Derry	8BL AVG: 0	0.00	1	17-24	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	17-24	25
+Weekly_Saturday_05-03-25	May 03/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	25-32	25
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	6	WINNER	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	5	2nd	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Mohammad Fuad	Fuad M	8BL AVG: 0	0.00	4	3rd	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	3	4th	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Danial Evans	Danial Evans	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Hamza Alhourani	Hamza Alhour	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Juan Esparza	Juan Esparza	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Robert Walker	Robert W	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Florian Stojanoski	Florian Stoj	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Lavarr Wesley	Lavar Wesley	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_05-10-25	May 10/25	9 Ball	Double	Ali Majed	Ali Majed	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Mohammad Fuad	Fuad M	8BL AVG: 0	0.00	6	WINNER	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	5	2nd	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	4	3rd	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	3	4th	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	2	5-6	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	2	5-6	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	7-8	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Hamza Alhourani	Hamza Alhour	8BL AVG: 0	0.00	1	7-8	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	9-12	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	9-12	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	13-16	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Joel Morrison	Joel M	8BL AVG: 0	0.00	1	13-16	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Danny Castillo	Danny Castil	8BL AVG: 0	0.00	1	13-16	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	13-16	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Ross Brookshire	R Brookshire	8BL AVG: 0	0.00	1	17-24	18
+Weekly_Saturday_05-17-25	May 17/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	17-24	18
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	6	WINNER	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Mohammad Fuad	Fuad M	8BL AVG: 0	0.00	5	2nd	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Jeremiah Hoffman	Jeremiah Hof	8BL AVG: 0	0.00	4	3rd	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	3	4th	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Jeremy Andrews	Jeremy A	8BL AVG: 0	0.00	2	5-6	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	2	5-6	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	1	7-8	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	James Selman	James Selman	8BL AVG: 0	0.00	1	7-8	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Arturo Guido	Arturo Guido	8BL AVG: 0	0.00	1	9-12	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	9-12	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	9-12	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Danny Castillo	Danny Castil	8BL AVG: 0	0.00	1	13-16	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	13-16	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	13-16	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	13-16	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Bryan Quilez	Bryan Quilez	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Hamza Alhourani	Hamza Alhour	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Eric Kuykendall	Eric Kuykend	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_05-24-25	May 24/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	17-24	21
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Mohammad Fuad	Fuad M	8BL AVG: 0	0.00	6	WINNER	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Steve Kolecki	Steve Ko	8BL AVG: 0	0.00	5	2nd	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	4	3rd	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	3	4th	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	2	5-6	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Jeremiah Hoffman	Jeremiah Hof	8BL AVG: 0	0.00	2	5-6	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Robert Schneider	Robert Schne	8BL AVG: 0	0.00	1	7-8	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	7-8	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	1	9-12	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	9-12	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	9-12	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	9-12	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Hamza Alhourani	Hamza Alhour	8BL AVG: 0	0.00	1	13-16	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Lavarr Wesley	Lavar Wesley	8BL AVG: 0	0.00	1	13-16	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	13-16	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Heather Hatt	Heather Hatt	8BL AVG: 0	0.00	1	17-24	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Eric Kuykendall	Eric Kuykend	8BL AVG: 0	0.00	1	17-24	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	17-24	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	17-24	23
+Weekly_Saturday_05-31-25	May 31/25	9 Ball	Double	Angel Dodds	Angel Dodds	8BL AVG: 0	0.00	1	17-24	23
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	6	WINNER	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	5	2nd	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	4	3rd	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Jeremiah Hoffman	Jeremiah Hof	8BL AVG: 0	0.00	3	4th	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Brian Sanders	Brian Sander	8BL AVG: 0	0.00	2	5-6	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	2	5-6	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	7-8	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	7-8	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	1	9-12	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Derek Poulin	Derek Poulin	8BL AVG: 0	0.00	1	9-12	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	William Honea	Will Honea	8BL AVG: 0	0.00	1	9-12	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	1	9-12	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Aseem Grover	A Grover	8BL AVG: 0	0.00	1	13-16	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Charles Kiley	Chaz Kiley	8BL AVG: 0	0.00	1	13-16	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Shayla Neris	Shayla Neris	8BL AVG: 0	0.00	1	13-16	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Robert Schneider	Robert Schne	8BL AVG: 0	0.00	1	13-16	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Eric Kuykendall	Eric Kuykend	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Lavarr Wesley	Lavar Wesley	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Danny Castillo	Danny Castil	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Juan Esparza	Juan Esparza	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Jeremy Andrews	Jeremy A	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Cesar Hernandez	Cesar Hernan	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Saturday_06-07-25	Jun 07/25	9 Ball	Double	Ronnie Mann	Ronnie Mann	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Ethan Innis	Ethan Innis	8BL AVG: 0	0.00	6	WINNER	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	5	2nd	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	4	3rd	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	3	4th	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Brandon Shilling	Brandon Shil	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Tommy Tokoph	Tommy Tokoph	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Robert Schneider	Robert Schne	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Rick Clark	Rick Clark	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Steve Kolecki	Steve Ko	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Jayce Pena	Jayce Pena	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Jaden Acuna	Jaden Acuna	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Diane Clark	Diane Clark	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Hamza Alhourani	Hamza Alhour	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Saturday_06-14-25	Jun 14/25	9 Ball	Double	Steve Abel	Steve Abel	8BL AVG: 0	0.00	1	25-32	22
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Robert Schneider	Robert Schne	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Michael Evans	M Evans	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	3	4th	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Jim Miller	Jim Miller	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Michael A Jones	Michael J	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Darrell Smith	Darrel Smith	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Jason Ramirez	Jason Ramire	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Simon Ramirez	Simon Ramire	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Michael Oosse	Mike Oosse	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Ralph Cardona	Ralph Cardon	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Jesse Cardona	Jesse Cardon	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Chance Myers	Chance Myers	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_1-3-25	Jan 03/25	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	6	WINNER	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	5	2nd	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	4	3rd	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Michael Oosse	Mike Oosse	8BL AVG: 0	0.00	3	4th	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	2	5-6	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	2	5-6	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	7-8	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	7-8	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	9-12	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Toni Loffredi	Toni Loffred	8BL AVG: 0	0.00	1	9-12	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	1	9-12	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	9-12	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	13-16	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	13-16	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	13-16	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	13-16	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Shawn Thompson	Shawn Thomps	8BL AVG: 0	0.00	1	17-24	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Da Lyu	Da Lyu	8BL AVG: 0	0.00	1	17-24	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Juan Alaniz	TK Alaniz	8BL AVG: 0	0.00	1	17-24	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	17-24	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	1	17-24	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Michael Evans	M Evans	8BL AVG: 0	0.00	1	17-24	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	17-24	24
+Weekly_Friday_1-10-25	Jan 10/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	17-24	24
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	6	WINNER	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Kevin Welling	K Welling	8BL AVG: 0	0.00	5	2nd	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	4	3rd	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	3	4th	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	2	5-6	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Carlos Cruz	Carlos Cruz	8BL AVG: 0	0.00	2	5-6	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	7-8	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	7-8	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Victor Brown	Victor Brown	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Simon Ramirez	Simon Ramire	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Shaun Thompson	Shaun Thomps	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Donavon Bragg	Donavon Brag	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Jeremy Voigt	Jeremy Voigt	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Lindsey Sanders	Lindsey	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Joe Polt	Joe Polt	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Mark Impson	Mark Impson	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_01-17-25	Jan 17/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	6	WINNER	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	5	2nd	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	4	3rd	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	3	4th	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	2	5-6	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	2	5-6	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	7-8	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	7-8	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Shaun Thompson	Shaun Thomps	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Justin Schillinger	Justin Schil	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Flint Minter	Flint Minter	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Jason Wagner	Jason Wagner	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Danial Evans	Danial Evans	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Marc Strohallen	Marc Strohal	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_01-24-25	Jan 24/25	9 Ball	Double	Kimberli Wagner	Kim Wagner	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	6	WINNER	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	5	2nd	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	4	3rd	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	3	4th	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	2	5-6	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	2	5-6	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Ray Baca	Ray Baca	8BL AVG: 0	0.00	1	7-8	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	7-8	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	9-12	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	9-12	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	9-12	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	9-12	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	13-16	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	13-16	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	13-16	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Corey Dordek	Corey Dordek	8BL AVG: 0	0.00	1	13-16	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Deidra Fournier	Deidra Fourn	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Marc Strohallen	Marc Strohal	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Chris Laird	Chris Laird	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Kevin Welling	K Welling	8BL AVG: 0	0.00	1	25-32	26
+Weekly_Friday_01-31-25	Jan 31/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	25-32	26
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	6	WINNER	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	5	2nd	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	4	3rd	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	3	4th	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Kevin Welling	K Welling	8BL AVG: 0	0.00	2	5-6	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Doug Young	Doug Young	8BL AVG: 0	0.00	2	5-6	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	7-8	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	7-8	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Alex Rodney	Alex Rodney	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Marc Strohallen	Marc Strohal	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Shaun Thompson	Shaun Thomps	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_02-07-25	Feb 07/25	9 Ball	Double	Pete Baza	Pete Baza	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Miguel Polanco	Miguel Polan	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	3	4th	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Adrian Munoz	Adrian Munoz	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Jason Longoria	Jason Longor	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Mike Dougherty	Mike D	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Quila Finley	Quila Finley	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-21-25	Feb 21/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Kevin Welling	K Welling	8BL AVG: 0	0.00	3	4th	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Steve Nugent	Steven Nugen	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Tom Passow	Tom Passow	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Mike Choate	Mike Choate	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Bubba Staton	Bubba Staton	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Venkata Devulapalli	Venkata D	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Marc Strohallen	Marc Strohal	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_02-28-25	Feb 28/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	6	WINNER	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	5	2nd	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	4	3rd	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	3	4th	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	2	5-6	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	7-8	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Jeremiah Hoffman	Jeremiah Hof	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	1	9-12	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Venkata Devulapalli	Venkata D	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	13-16	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Jeffry Quiroz	Jeffry Quiro	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Tom Passow	Tom Passow	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Friday_03-07-25	Mar 07/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	17-24	22
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	3	4th	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Mille Almaraz	Mille Almara	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Steve Nugent	Steven Nugen	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Kevin Welling	K Welling	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Lindsey Sanders	Lindsey	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Eric Aicinena	E Aicinena	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Darryl Henry	Lupe Henry	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Tom Passow	Tom Passow	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Matthew Wilson	Mathew Wilso	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Marc Strohallen	Marc Strohal	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-14-25	Mar 14/25	9 Ball	Double	Venkata Devulapalli	Venkata D	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	6	WINNER	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	5	2nd	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	4	3rd	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	3	4th	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Chris Morris	Chris Morris	8BL AVG: 0	0.00	2	5-6	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	2	5-6	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	1	7-8	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	7-8	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	9-12	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Jose Chavez	Jose Chavez	8BL AVG: 0	0.00	1	9-12	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	9-12	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	1	13-16	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Steve Nugent	Steven Nugen	8BL AVG: 0	0.00	1	13-16	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	13-16	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Stefan Mastovich	Stefan M	8BL AVG: 0	0.00	1	17-24	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	17-24	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Carlos Cruz	Carlos Cruz	8BL AVG: 0	0.00	1	17-24	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	17-24	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Jason Longoria	Jason Longor	8BL AVG: 0	0.00	1	17-24	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	0.00	1	17-24	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	25-32	27
+Weekly_Friday_03-21-25	Mar 21/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	25-32	27
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	6	WINNER	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	5	2nd	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Darryl Henry	Lupe Henry	8BL AVG: 0	0.00	4	3rd	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	3	4th	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	2	5-6	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	2	5-6	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	7-8	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	1	7-8	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Jared Law	Jared Law	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Alexander Younes	Alex Younes	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Josh Heidemann	Josh Heidema	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Shaun Thompson	Shaun Thomps	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Steve Nugent	Steven Nugen	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Ric Ware	Ric Ware	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Kay Littlepage	Kay Littlepa	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_03-28-25	Mar 28/25	9 Ball	Double	Lewis Kim	Lewis Kim	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Eric Aicinena	E Aicinena	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	3	4th	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Mille Almaraz	Mille Almara	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Luke Anderson	Luke A	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Carlos Cruz	Carlos Cruz	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Danny Aranjon	Danny Aranjo	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Mike Tran	Mike Tran	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Ryan Nelson	Ryan Nelson	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Alan McBride	Alan McBride	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	David Howard	David Howard	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Trent Heil	Trent Heil	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_04-04-25	Apr 04/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	6	WINNER	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	5	2nd	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	4	3rd	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	3	4th	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	2	5-6	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Carlos Cruz	Carlos Cruz	8BL AVG: 0	0.00	2	5-6	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	7-8	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	1	7-8	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Eric Aicinena	E Aicinena	8BL AVG: 0	0.00	1	9-12	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	9-12	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	9-12	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	9-12	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	13-16	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	13-16	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Mark Impson	Mark Impson	8BL AVG: 0	0.00	1	13-16	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Russell Litton	R Litton	8BL AVG: 0	0.00	1	13-16	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Joe Wright	Joe Wright	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Kerry Impson	Kerry Impson	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Mille Almaraz	Mille Almara	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Jeff Reamer	Jeff Reamer	8BL AVG: 0	0.00	1	25-32	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	25-32	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	25-32	28
+Weekly_Friday_04-11-25	Apr 11/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	25-32	28
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	6	WINNER	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	5	2nd	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	4	3rd	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	3	4th	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	2	5-6	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	2	5-6	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Alan McBride	Alan McBride	8BL AVG: 0	0.00	1	7-8	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	7-8	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Darrell Smith	Darrel Smith	8BL AVG: 0	0.00	1	9-12	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Bobby Rivera	Bobby Rivera	8BL AVG: 0	0.00	1	9-12	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	9-12	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	9-12	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Luke Anderson	Luke A	8BL AVG: 0	0.00	1	13-16	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	13-16	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	13-16	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	13-16	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Jeffry Quiroz	Jeffry Quiro	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Jason Longoria	Jason Longor	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Tom Cortesio	Tom Cortesio	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	17-24	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Friday_04-18-25	Apr 18/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	25-32	30
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	6	WINNER	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	5	2nd	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	4	3rd	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	3	4th	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	2	5-6	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	2	5-6	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	7-8	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Mark Impson	Mark Impson	8BL AVG: 0	0.00	1	7-8	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Kerry Impson	Kerry Impson	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Jeff Reamer	Jeff Reamer	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Jake Deruyter	Jake Deruyt	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Steve Abel	Steve Abel	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Nihar Rane	Nihar Rane	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Manny Moreno	Manny Moreno	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Alan McBride	Alan McBride	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	JR Loza	JR Loza	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Ross Brookshire	R Brookshire	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Jose Rodriguez	Jose Rodrigu	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_04-25-25	Apr 25/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	3	4th	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Danial Evans	Danial Evans	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Bubba Staton	Bubba Staton	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Nihar Rane	Nihar Rane	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Jason Roessler	Jason Roessl	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Michael D Taylor	Mike Taylor	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Angel Dodds	Angel Dodds	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_05-02-25	May 02/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	6	WINNER	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	5	2nd	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Gabriel Martinez	Gabriel Mart	8BL AVG: 0	0.00	4	3rd	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	3	4th	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	2	5-6	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Melvin Cales	Melvin Cales	8BL AVG: 0	0.00	2	5-6	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	7-8	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	7-8	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	9-12	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	9-12	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	9-12	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	9-12	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	13-16	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	13-16	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	13-16	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	13-16	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Michael Schriner	Michael S	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Terry Touysithiphonexay	Terry Touysi	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Erica Collins	Erica Hanlon	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	17-24	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	25-32	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	25-32	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Nihar Rane	Nihar Rane	8BL AVG: 0	0.00	1	25-32	28
+Weekly_Friday_05-09-25	May 09/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	25-32	28
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	6	WINNER	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	5	2nd	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	4	3rd	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	3	4th	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	2	5-6	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	2	5-6	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	7-8	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Steven Cunningham	Steve Cunnin	8BL AVG: 0	0.00	1	7-8	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Aseem Grover	A Grover	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	9-12	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	13-16	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Luke Anderson	Luke A	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Danial Evans	Danial Evans	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Angel Dodds	Angel Dodds	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	17-24	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Michael A Jones	Michael J	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Jeremy Hall	Jeremy Hall	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_05-16-25	May 16/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	25-32	29
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	6	WINNER	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	5	2nd	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	4	3rd	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	3	4th	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Michael A Jones	Michael J	8BL AVG: 0	0.00	2	5-6	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Callum ODonnell	Callum Odonn	8BL AVG: 0	0.00	2	5-6	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	7-8	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Kim Pierce	Kim Pierce	8BL AVG: 0	0.00	1	7-8	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	9-12	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	9-12	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	9-12	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	9-12	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	13-16	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	13-16	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Jeffry Quiroz	Jeffry Quiro	8BL AVG: 0	0.00	1	13-16	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Shayla Neris	Shayla Neris	8BL AVG: 0	0.00	1	13-16	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	David Ray	David Ray	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Pasha Golovin	Pasha Golovi	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Peter Berberov	Peter Berber	8BL AVG: 0	0.00	1	17-24	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	25-32	26
+Weekly_Friday_05-23-25	May 23/25	9 Ball	Double	Tommy Chaney	Tommy C	8BL AVG: 0	0.00	1	25-32	26
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	6	WINNER	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	5	2nd	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	4	3rd	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	3	4th	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Bryan Parker	Bryan Parker	8BL AVG: 0	0.00	2	5-6	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	2	5-6	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	7-8	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	7-8	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Steve Abel	Steve Abel	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Cort Westphal	Cort Westpha	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Nihar Rane	Nihar Rane	8BL AVG: 0	0.00	1	13-16	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Michael A Jones	Michael J	8BL AVG: 0	0.00	1	17-24	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Robert Gonzalez	Bam Bam	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Peter Berberov	Peter Berber	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Harold Campbell	Harold C	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_05-30-25	May 30/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	25-32	31
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Gabriel Martinez	Gabriel Mart	8BL AVG: 0	0.00	6	WINNER	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	5	2nd	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	0.00	4	3rd	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	3	4th	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	2	5-6	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	7-8	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Haoyang Liu	Haoyang Liu	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	9-12	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Steve Abel	Steve Abel	8BL AVG: 0	0.00	1	13-16	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Mohammad Fuad	Fuad M	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Danny Castillo	Danny Castil	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Lindsey Sanders	Lindsey	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Jeff Reamer	Jeff Reamer	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Derek Poulin	Derek Poulin	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Hamza Alhourani	Hamza Alhour	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	James Davis Jr	J Davis Jr	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	William Honea	Will Honea	8BL AVG: 0	0.00	1	25-32	32
+Weekly_Friday_06-06-25	Jun 06/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	25-32	32

@@ -1,0 +1,546 @@
+TOURNEY	DATE	GAME	FORMAT	FULL NAME	ALIAS	SKILL	PRIZE	POINTS	POSITION	ROSTER
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	225.00	6	WINNER	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	170.00	5	2nd	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	115.00	4	3rd	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	60.00	3	4th	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Stefan Mastovich	Stefan M	8BL AVG: 0	30.00	2	5-6	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Callum ODonnell	Callum Odonn	8BL AVG: 0	30.00	2	5-6	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Dean Perry	Dean Perry	8BL AVG: 0	0.00	1	7-8	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Jeanguy Fournier	Jeanguy Four	8BL AVG: 0	0.00	1	7-8	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Darryl Henry	Lupe Henry	8BL AVG: 0	0.00	1	9-12	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Robert Gonzalez	Bam Bam	8BL AVG: 0	0.00	1	9-12	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Marcus Whittington	Marcus Whitt	8BL AVG: 0	0.00	1	9-12	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Tom Passow	Tom Passow	8BL AVG: 0	0.00	1	9-12	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Mark Lee	Mark Lee	8BL AVG: 0	0.00	1	13-16	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Ricky Martin	Ricky Martin	8BL AVG: 0	0.00	1	13-16	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	1	13-16	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Sarath Chelika	Sarath C	8BL AVG: 0	0.00	1	13-16	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Ric Ware	Ric Ware	8BL AVG: 0	0.00	1	17-24	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Tommy McDermott	Tommy McDerm	8BL AVG: 0	0.00	1	17-24	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Steve Putnam	Steve Putnam	8BL AVG: 0	0.00	1	17-24	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Eric Hanson	Eric Hanson	8BL AVG: 0	0.00	1	25-32	21
+8_Ball_Tournament_03-29-25	Mar 29/25	8 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	0.00	1	25-32	21
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Noah Contreras	Noah Contrer	8BL AVG: 0	180.00	6	WINNER	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	100.00	5	2nd	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	80.00	4	3rd	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Joe Polt	Joe Polt	8BL AVG: 0	40.00	3	4th	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Sarath Chelika	Sarath C	8BL AVG: 0	0.00	2	5-6	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Jim Miller	Jim Miller	8BL AVG: 0	0.00	2	5-6	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	7-8	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Bubba Staton	Bubba Staton	8BL AVG: 0	0.00	1	7-8	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	9-12	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Dylan Dunford	Dylan Dunfor	8BL AVG: 0	0.00	1	9-12	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Louis Salinas	Louis Salina	8BL AVG: 0	0.00	1	9-12	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Robert Walker	Robert W	8BL AVG: 0	0.00	1	13-16	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Crystal Jones	Crystal J	8BL AVG: 0	0.00	1	13-16	15
+8_Ball_Tournament_11-30-24	Nov 30/24	8 Ball	Double	Eric Blackwell	Eric B	8BL AVG: 0	0.00	1	13-16	15
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	175.00	6	WINNER	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	130.00	5	2nd	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Luke Choate	Luke Choate	8BL AVG: 0	85.00	4	3rd	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Ryan Machus	Ryan Machus	8BL AVG: 0	50.00	3	4th	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Freddy Lucero	Freddy Lucer	8BL AVG: 0	0.00	2	5-6	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Jessie Hohmann	Jessie Hohma	8BL AVG: 0	0.00	2	5-6	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Michael Engelmann	Michael Enge	8BL AVG: 0	0.00	1	7-8	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Brandon Kura	Brandon Kura	8BL AVG: 0	0.00	1	7-8	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Jerry Riley	Jerry Riley	8BL AVG: 0	0.00	1	9-12	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	William Honea	Will Honea	8BL AVG: 0	0.00	1	9-12	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Bernie Banawis	Bernie Bana	8BL AVG: 0	0.00	1	9-12	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	8BL AVG: 0	0.00	1	9-12	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	John Chairez	John Chairez	8BL AVG: 0	0.00	1	13-16	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Dean Samnang	Dean Samnang	8BL AVG: 0	0.00	1	13-16	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Hannah Gartner	Hannah Gartn	8BL AVG: 0	0.00	1	13-16	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Chris Sigman	Chris Sigman	8BL AVG: 0	0.00	1	13-16	17
+Fargo_499_and_Under_06-07-25	Jun 07/25	9 Ball	Double	Ethan Hartlief	Ethan H	8BL AVG: 0	0.00	1	17-24	17
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	240.00	6	WINNER	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	180.00	5	2nd	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Dan Lepine	Dan Lepine	8BL AVG: 0	120.00	4	3rd	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Scott Niemann	Scott Nieman	8BL AVG: 0	80.00	3	4th	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Nathan Nguyen	Nathan Nguye	8BL AVG: 0	40.00	2	5-6	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	40.00	2	5-6	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	0.00	1	7-8	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Robert Odom	Robert Odom	8BL AVG: 0	0.00	1	7-8	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Adam Essner	Adam Essner	8BL AVG: 0	0.00	1	9-12	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Steven Cunningham	Steve Cunnin	8BL AVG: 0	0.00	1	9-12	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	9-12	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Ky Lowe	Ky Lowe	8BL AVG: 0	0.00	1	9-12	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Kevin Taylor	Kevin T	8BL AVG: 0	0.00	1	13-16	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Elliot McCraw	Elliot Mcraw	8BL AVG: 0	0.00	1	13-16	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Oscar Guerrero	Oscar Guerr	8BL AVG: 0	0.00	1	13-16	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	13-16	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Terence Kirubagaran	T Kirubagara	8BL AVG: 0	0.00	1	17-24	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Roy Alvarez	Roy Alvarez	8BL AVG: 0	0.00	1	17-24	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	17-24	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Luke Choate	Luke Choate	8BL AVG: 0	0.00	1	17-24	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Beth Tindell	Beth Tindell	8BL AVG: 0	0.00	1	17-24	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Diana Cardona	Diana Cardon	8BL AVG: 0	0.00	1	17-24	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Sultana Christensen	Sultana Chri	8BL AVG: 0	0.00	1	17-24	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Jayce Pena	Jayce Pena	8BL AVG: 0	0.00	1	17-24	25
+Fargo_499_and_Under_10-06-24	Oct 06/24	9 Ball	Double	Michael Lawney	Michael Lawn	8BL AVG: 0	0.00	1	25-32	25
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Terence Kirubagaran	T Kirubagara	8BL AVG: 0	220.00	6	WINNER	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	160.00	5	2nd	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Oscar Guerrero	Oscar Guerr	8BL AVG: 0	100.00	4	3rd	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	60.00	3	4th	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Jason Stiewert	Jason Stiew	8BL AVG: 0	0.00	2	5-6	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	2	5-6	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Dylan Dunford	Dylan Dunfor	8BL AVG: 0	0.00	1	7-8	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	7-8	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Dan Lepine	Dan Lepine	8BL AVG: 0	0.00	1	9-12	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Dean Samnang	Dean Samnang	8BL AVG: 0	0.00	1	9-12	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Wayne Hall	Wayne Hall	8BL AVG: 0	0.00	1	9-12	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Beth Tindell	Beth Tindell	8BL AVG: 0	0.00	1	13-16	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	13-16	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Sultana Christensen	Sultana Chri	8BL AVG: 0	0.00	1	13-16	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Michael Lawney	Michael Lawn	8BL AVG: 0	0.00	1	13-16	17
+Fargo_499_and_Under_11-03-24	Nov 03/24	9 Ball	Double	Jayce Pena	Jayce Pena	8BL AVG: 0	0.00	1	17-24	17
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Scott Niemann	Scott Nieman	8BL AVG: 0	200.00	6	WINNER	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Ryan Machus	Ryan Machus	8BL AVG: 0	150.00	5	2nd	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Dylan Boggs	Dylan Boggs	8BL AVG: 0	100.00	4	3rd	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Freddy Lucero	Freddy Lucer	8BL AVG: 0	50.00	3	4th	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Michael Ruston	Michael Rust	8BL AVG: 0	0.00	2	5-6	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Corey Corbin	Corey Corbin	8BL AVG: 0	0.00	2	5-6	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	7-8	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	7-8	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	George A Torres	George Torre	8BL AVG: 0	0.00	1	9-12	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Patrick Serra	Patrick Serr	8BL AVG: 0	0.00	1	9-12	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	9-12	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	9-12	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	13-16	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	John Chairez	John Chairez	8BL AVG: 0	0.00	1	13-16	15
+Fargo_499_and_Under_12-07-24	Dec 07/24	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	13-16	15
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	240.00	6	WINNER	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Michael Lawney	Michael Lawn	8BL AVG: 0	170.00	5	2nd	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Robert Odom	Robert Odom	8BL AVG: 0	110.00	4	3rd	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	60.00	3	4th	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Michael Ruston	Michael Rust	8BL AVG: 0	0.00	2	5-6	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Luke Choate	Luke Choate	8BL AVG: 0	0.00	2	5-6	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Ryan Machus	Ryan Machus	8BL AVG: 0	0.00	1	7-8	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Joe Rivera	Joe Rivera	8BL AVG: 0	0.00	1	7-8	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Michael Engelmann	Michael Enge	8BL AVG: 0	0.00	1	9-12	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Danny Selman	Danny Selman	8BL AVG: 0	0.00	1	9-12	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Scott Niemann	Scott Nieman	8BL AVG: 0	0.00	1	9-12	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Nathan Nguyen	Nathan Nguye	8BL AVG: 0	0.00	1	13-16	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Jerry Riley	Jerry Riley	8BL AVG: 0	0.00	1	13-16	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	Ronnie Mann	Ronnie Mann	8BL AVG: 0	0.00	1	13-16	16
+Fargo_500_and_Under_7-20-24	Jul 20/24	9 Ball	Double	John Chairez	John Chairez	8BL AVG: 0	0.00	1	13-16	16
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	430.00	6	WINNER	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	290.00	5	2nd	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	180.00	4	3rd	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Dean Perry	Dean Perry	8BL AVG: 0	80.00	3	4th	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Cort Westphal	Cort Westpha	8BL AVG: 0	40.00	2	5-6	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	40.00	2	5-6	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Ryan Machus	Ryan Machus	8BL AVG: 0	0.00	1	7-8	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Antonio Rojas	Antonio Roja	8BL AVG: 0	0.00	1	7-8	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Brian Ripoli	Brian Ripoli	8BL AVG: 0	0.00	1	9-12	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	9-12	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Hunter Derryberry	Hunter Derry	8BL AVG: 0	0.00	1	9-12	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Ricardo Espinosa	R Espinosa	8BL AVG: 0	0.00	1	9-12	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Steve Abel	Steve Abel	8BL AVG: 0	0.00	1	13-16	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Ricardo Nixon	Ricardo Nixo	8BL AVG: 0	0.00	1	13-16	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Mike Tran	Mike Tran	8BL AVG: 0	0.00	1	13-16	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Brian Wikert	Brian Wikert	8BL AVG: 0	0.00	1	13-16	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Robert Tanaka	Robert Tanak	8BL AVG: 0	0.00	1	17-24	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Aseem Grover	A Grover	8BL AVG: 0	0.00	1	17-24	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Jerry Riley	Jerry Riley	8BL AVG: 0	0.00	1	17-24	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	17-24	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Larry Brevelle	Larry Brevel	8BL AVG: 0	0.00	1	17-24	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	17-24	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Mark Lee	Mark Lee	8BL AVG: 0	0.00	1	17-24	24
+Fargo_599_Under_062125	Jun 21/25	9 Ball	Double	Pete Baza	Pete Baza	8BL AVG: 0	0.00	1	17-24	24
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	280.00	6	WINNER	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	220.00	5	2nd	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Miguel Baez	Miguel Baez	8BL AVG: 0	140.00	4	3rd	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Michael Engelmann	Michael Enge	8BL AVG: 0	80.00	3	4th	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Jerry Riley	Jerry Riley	8BL AVG: 0	40.00	2	5-6	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Oscar Guerrero	Oscar Guerr	8BL AVG: 0	40.00	2	5-6	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	George A Torres	George Torre	8BL AVG: 0	20.00	1	7-8	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Irving Gamez	Irving Gamez	8BL AVG: 0	20.00	1	7-8	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Marc Strohallen	Marc Strohal	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Jeanguy Fournier	Jeanguy Four	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Heather Hatt	Heather Hatt	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Edward Brown	Edward Brown	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	John Chairez	John Chairez	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Ryan Machus	Ryan Machus	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Daniel Gomez	Daniel Gomez	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Rick Steinbarth	Rick Steinba	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Justin M Davis	Justin M Dav	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Garland Graham	Garland Grah	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Tim Nations	Tim Nations	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Johana Sifuentes	Johana Sifue	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Marc Hanson	Marc Hanson	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Evan McBroom	Evan McBroom	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Freddy Lucero	Freddy Lucer	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Brandon Whited	Brandon Whit	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Sultana Christensen	Sultana Chri	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Devin Keenan	Devin Keenan	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Adam Arshon	Adam Arshon	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_499_03-22-25	Mar 22/25	9 Ball	Double	Danny Selman	Danny Selman	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	6	WINNER	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Sean Nguyen	Sean Nguyen	8BL AVG: 0	0.00	5	2nd	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	4	3rd	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Michael Evans	M Evans	8BL AVG: 0	0.00	3	4th	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Charles Jernigan	Charles J	8BL AVG: 0	0.00	2	5-6	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	2	5-6	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	1	7-8	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Cort Westphal	Cort Westpha	8BL AVG: 0	0.00	1	7-8	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Kevin McClain	Kevin Mclain	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Mark Lee	Mark Lee	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	James Rohl	James Rohl	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Ronnie Mann	Ronnie Mann	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Ralph Cardona	Ralph Cardon	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Jason Wagner	Jason Wagner	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Peter Dipaolo	Pete Dipaolo	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Forrest Sutton	Forrest Sutt	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Adam Essner	Adam Essner	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Brock Yoder	Brock Yoder	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Dean Perry	Dean Perry	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Zach Harris	Zach Harris	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Kiki Garcia	Kiki Garcia	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Kimberli Wagner	Kim Wagner	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Raymond Sanchez	Ray Sanchez	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_1-6-25	Jan 06/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	6	WINNER	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	5	2nd	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	James Selman	James Selman	8BL AVG: 0	0.00	4	3rd	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	3	4th	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	2	5-6	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	2	5-6	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	7-8	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Ronnie Mann	Ronnie Mann	8BL AVG: 0	0.00	1	7-8	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	9-12	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Michael Evans	M Evans	8BL AVG: 0	0.00	1	9-12	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	9-12	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	9-12	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	13-16	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	13-16	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	13-16	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	13-16	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Michael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	17-24	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Michael Tran	Mike Tran	8BL AVG: 0	0.00	1	17-24	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	17-24	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	James Rohl	James Rohl	8BL AVG: 0	0.00	1	17-24	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	17-24	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Tom Passow	Tom Passow	8BL AVG: 0	0.00	1	17-24	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Nicole McDaniel	Nicole McDan	8BL AVG: 0	0.00	1	17-24	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Louis Salinas	Louis Salina	8BL AVG: 0	0.00	1	17-24	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Molly McWhorter	Molly McWhor	8BL AVG: 0	0.00	1	25-32	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Seth Maloney	Seth Maloney	8BL AVG: 0	0.00	1	25-32	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	25-32	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Sean Nguyen	Sean Nguyen	8BL AVG: 0	0.00	1	25-32	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Hunter Derryberry	Hunter Derry	8BL AVG: 0	0.00	1	25-32	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Dean Perry	Dean Perry	8BL AVG: 0	0.00	1	25-32	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Mark Lee	Mark Lee	8BL AVG: 0	0.00	1	25-32	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Charles Jernigan	Charles J	8BL AVG: 0	0.00	1	25-32	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Brian Crone	Brian Crone	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Kiki Garcia	Kiki Garcia	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Peter Dipaolo	Pete Dipaolo	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Kristin Pauley	Kristin Paul	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Ty Mesker	Ty Mesker	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Kevin McClain	Kevin Mclain	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Kimberli Wagner	Kim Wagner	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	David Hutchins	David Hutch	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Diana Cardona	Diana Cardon	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Brock Yoder	Brock Yoder	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Adam Essner	Adam Essner	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Mille Almaraz	Mille Almara	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_01-13-25	Jan 13/25	9 Ball	Double	Jason Wagner	Jason Wagner	8BL AVG: 0	0.00	1	33-48	45
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	6	WINNER	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	5	2nd	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Ronnie Mann	Ronnie Mann	8BL AVG: 0	0.00	4	3rd	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	3	4th	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	James Rohl	James Rohl	8BL AVG: 0	0.00	2	5-6	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	2	5-6	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Ali Majed	Ali Majed	8BL AVG: 0	0.00	1	7-8	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Kevin McClain	Kevin Mclain	8BL AVG: 0	0.00	1	7-8	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Scott Niemann	Scott Nieman	8BL AVG: 0	0.00	1	9-12	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Sarath Chelika	Sarath C	8BL AVG: 0	0.00	1	9-12	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	9-12	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	9-12	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Bubba Staton	Bubba Staton	8BL AVG: 0	0.00	1	13-16	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	13-16	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Matthew Carson	Matthew Cars	8BL AVG: 0	0.00	1	13-16	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Olutosin Omosilade	Louis Omosil	8BL AVG: 0	0.00	1	13-16	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Michael Evans	M Evans	8BL AVG: 0	0.00	1	17-24	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	17-24	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Nathan Nguyen	Nathan Nguye	8BL AVG: 0	0.00	1	17-24	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	17-24	21
+Fargo_Under_580_12-02-24	Dec 02/24	9 Ball	Double	Kyle Hoffstatter	Kyle H	8BL AVG: 0	0.00	1	17-24	21
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	6	WINNER	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	5	2nd	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	4	3rd	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	3	4th	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	2	5-6	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Gill Williams	Gill William	8BL AVG: 0	0.00	2	5-6	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Darrell Smith	Darrel Smith	8BL AVG: 0	0.00	1	7-8	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	7-8	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Nick Sanchez	Nick Sanchez	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Anastacio Tijerina	A Tigerina	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	James Rohl	James Rohl	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Joshua Bair	Josh Bair	8BL AVG: 0	0.00	1	9-12	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Mike Choate	Mike Choate	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Louis Salinas	Louis Salina	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Jeff Constant	Jeff Constan	8BL AVG: 0	0.00	1	13-16	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	TJ Lohr	TJ Lohr	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Ricky Amsden	Ricky Amsden	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	James Selman	James Selman	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Joey Martinez	Joey Martine	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Daniel Ornelas	Daniel O	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Neel Suthar	Neel Suthar	8BL AVG: 0	0.00	1	17-24	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Carlos Echenique Sr	Carlos E Sr	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Molly McWhorter	Molly McWhor	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Mohammad Sheikh	Sheikh	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Ryan Machus	Ryan Machus	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	Raymond Sanchez	Ray Sanchez	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_580_12-23-24	Dec 23/24	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	25-32	32
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	650.00	6	WINNER	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Tom Passow	Tom Passow	8BL AVG: 0	460.00	5	2nd	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Antonio Rojas	Antonio Roja	8BL AVG: 0	300.00	4	3rd	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	150.00	3	4th	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	90.00	2	5-6	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	90.00	2	5-6	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Tommy McDermott	Tommy McDerm	8BL AVG: 0	60.00	1	7-8	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Eddie Palmer Sr	Eddie Palmer	8BL AVG: 0	60.00	1	7-8	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Mark Lee	Mark Lee	8BL AVG: 0	0.00	1	9-12	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Dustin Witt	Dustin Witt	8BL AVG: 0	0.00	1	9-12	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Pedro Oviolo	Pedro Oviolo	8BL AVG: 0	0.00	1	9-12	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Ricardo Espinosa	R Espinosa	8BL AVG: 0	0.00	1	9-12	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Nikko Salas	Nikko Salas	8BL AVG: 0	0.00	1	13-16	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Omar Soto	Omar Soto	8BL AVG: 0	0.00	1	13-16	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Phil Sadari	Phil Sadari	8BL AVG: 0	0.00	1	13-16	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Nicholas Sanchez	Nik Sanchez	8BL AVG: 0	0.00	1	13-16	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Lewis Kim	Lewis Kim	8BL AVG: 0	0.00	1	17-24	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Mille Almaraz	Mille Almara	8BL AVG: 0	0.00	1	17-24	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Thomas Leonard	Tom Leonard	8BL AVG: 0	0.00	1	17-24	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Darell Harton	Darrell Hart	8BL AVG: 0	0.00	1	17-24	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Seth Hudson	Seth Hudson	8BL AVG: 0	0.00	1	17-24	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Lazaro Martinez Jr	Big Laz	8BL AVG: 0	0.00	1	17-24	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Frank Alvarez	Frank Alvare	8BL AVG: 0	0.00	1	17-24	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	17-24	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Rick Neely	Rick Neely	8BL AVG: 0	0.00	1	25-32	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Joe Hudson	Joe Hudson	8BL AVG: 0	0.00	1	25-32	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Pat Castro	Chicago	8BL AVG: 0	0.00	1	25-32	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Alex Shapshevich	Alex Shapshe	8BL AVG: 0	0.00	1	25-32	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Ray Baca	Ray Baca	8BL AVG: 0	0.00	1	25-32	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	0.00	1	25-32	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	25-32	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	25-32	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Stefan Mastovich	Stefan M	8BL AVG: 0	0.00	1	33-48	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Carlos Echenique	Carlos Echen	8BL AVG: 0	0.00	1	33-48	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Bubba Staton	Bubba Staton	8BL AVG: 0	0.00	1	33-48	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Baruc Jimenez	Baruc Jimene	8BL AVG: 0	0.00	1	33-48	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Scott Niemann	Scott Nieman	8BL AVG: 0	0.00	1	33-48	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Michael Martinez	Michael Mart	8BL AVG: 0	0.00	1	33-48	39
+Fargo_Under_599_03-15-25	Mar 15/25	9 Ball	Double	Greg Everett	Greg Everett	8BL AVG: 0	0.00	1	33-48	39
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	6	WINNER	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	5	2nd	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	0.00	4	3rd	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Rishi Garach	Rishi	8BL AVG: 0	0.00	3	4th	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	2	5-6	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Mike Lindell	Mike Lindell	8BL AVG: 0	0.00	2	5-6	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	0.00	1	7-8	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	7-8	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Martin Burgess	Martin Burge	8BL AVG: 0	0.00	1	9-12	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Fouad Jasim	Fouad Jasim	8BL AVG: 0	0.00	1	9-12	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Jennifer Kraber	Jennifer Kra	8BL AVG: 0	0.00	1	9-12	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	9-12	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Annie Franklin	Annie Frankl	8BL AVG: 0	0.00	1	13-16	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Ricky McLain	Rick McLain	8BL AVG: 0	0.00	1	13-16	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Israel Araujo	Israel Arauj	8BL AVG: 0	0.00	1	13-16	16
+Halloween_Tournament_10-31-24	Oct 31/24	9 Ball	Double	Marc Hanson	Marc Hanson	8BL AVG: 0	0.00	1	13-16	16
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Eylul Kibaroglu	Lulu Kibaro	8BL AVG: 0	0.00	6	WINNER	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Kledio Kaci	Kledio Kaci	8BL AVG: 0	0.00	5	2nd	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Miguel Polanco	Miguel Polan	8BL AVG: 0	0.00	4	3rd	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	3	4th	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Eric Aicinena	E Aicinena	8BL AVG: 0	0.00	2	5-6	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Javier Alienes Naranjo	Javer Aliene	8BL AVG: 0	0.00	2	5-6	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	7-8	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Joe Rivera	Joe Rivera	8BL AVG: 0	0.00	1	7-8	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Hunter Derryberry	Hunter Derry	8BL AVG: 0	0.00	1	9-12	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	9-12	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Tracy Sanders	Tracy Sander	8BL AVG: 0	0.00	1	9-12	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Mike Robinson	Mike R	8BL AVG: 0	0.00	1	9-12	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Chris Sigman	Chris Sigman	8BL AVG: 0	0.00	1	13-16	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	13-16	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	13-16	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	13-16	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Bobby Rivera	Bobby Rivera	8BL AVG: 0	0.00	1	17-24	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	17-24	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	John Francisco	John Francis	8BL AVG: 0	0.00	1	17-24	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	17-24	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	17-24	22
+Saturday_Night_Mini	Feb 15/25	9 Ball	Double	Ian Johnson	Ian Johnson	8BL AVG: 0	0.00	1	17-24	22
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Eylul Kibaroglu	Lulu Kibaro	8BL AVG: 0	1500.00	6	WINNER	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Tara Williams	Tara William	8BL AVG: 0	1000.00	5	2nd	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Mille Almaraz	Mille Almara	8BL AVG: 0	600.00	4	3rd	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	250.00	3	4th	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Ming Ng	Ming Ng	8BL AVG: 0	0.00	2	5-6	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	2	5-6	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Carli Grigsby	Carli Grigsb	8BL AVG: 0	0.00	1	7-8	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Jillian Nickerson	Jillian Nick	8BL AVG: 0	0.00	1	7-8	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Angie Payne	Angie Payne	8BL AVG: 0	0.00	1	9-12	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	1	9-12	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Makenna Sanders	Makenna Sand	8BL AVG: 0	0.00	1	9-12	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	0.00	1	9-12	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	0.00	1	13-16	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Chris Fields	Chris Fields	8BL AVG: 0	0.00	1	13-16	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Michelle Adams	Michelle Ada	8BL AVG: 0	0.00	1	13-16	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Reagan Wallace	Reagan Walla	8BL AVG: 0	0.00	1	13-16	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Jennifer Kraber	Jennifer Kra	8BL AVG: 0	0.00	1	17-24	18
+Skinny_Bob_Nineball_Classic_Ladies_2025	Feb 15/25	9 Ball	Double	Celeste Lohr	Celeste Lohr	8BL AVG: 0	0.00	1	17-24	18
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Kledio Kaci	Kledio Kaci	8BL AVG: 0	6225.00	6	WINNER	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Jesus Atencio	Jesus Atenci	8BL AVG: 0	4000.00	5	2nd	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	John Gabriel	John Gabriel	8BL AVG: 0	2000.00	4	3rd	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Nathan Childress	Nathan Child	8BL AVG: 0	1200.00	3	4th	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Shahram Changezi	Shahram Chan	8BL AVG: 0	800.00	2	5-6	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Shane McMinn	Shane McMinn	8BL AVG: 0	800.00	2	5-6	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Eric Aicinena	E Aicinena	8BL AVG: 0	400.00	1	7-8	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Miguel Polanco	Miguel Polan	8BL AVG: 0	400.00	1	7-8	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Tommy Tokoph	Tommy Tokoph	8BL AVG: 0	200.00	1	9-12	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Gus Briseno	Gus Briseno	8BL AVG: 0	200.00	1	9-12	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Gabriel Martinez	Gabriel Mart	8BL AVG: 0	200.00	1	9-12	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Max Sun	Max Sun	8BL AVG: 0	200.00	1	9-12	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	John Francisco	John Francis	8BL AVG: 0	0.00	1	13-16	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	1	13-16	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	James Davis Jr	J Davis Jr	8BL AVG: 0	0.00	1	13-16	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Clint Palici	Clint Palici	8BL AVG: 0	0.00	1	13-16	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Jackson Evans	Jackson Evan	8BL AVG: 0	0.00	1	17-24	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Javier Alienes Naranjo	Javer Aliene	8BL AVG: 0	0.00	1	17-24	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	James Davis Sr	Bastrop	8BL AVG: 0	0.00	1	17-24	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	0.00	1	17-24	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Raed Shabib	Raed Shabib	8BL AVG: 0	0.00	1	17-24	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Lazaro Martinez IIi	Lazaro IIi	8BL AVG: 0	0.00	1	17-24	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Bobby Stubbs	Bubba Stubbs	8BL AVG: 0	0.00	1	17-24	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	1	17-24	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	JD Black	JD Black	8BL AVG: 0	0.00	1	25-32	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Chris Sharier	Chris Sharie	8BL AVG: 0	0.00	1	25-32	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	25-32	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Robert Martin	Robert Marti	8BL AVG: 0	0.00	1	25-32	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Donald Proctor	Donald Proct	8BL AVG: 0	0.00	1	25-32	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	0.00	1	25-32	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Nick Chirco	Nick Chirco	8BL AVG: 0	0.00	1	25-32	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Walter Huenerfuerst	Walter Huene	8BL AVG: 0	0.00	1	25-32	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Danny Seay	Danny Seay	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Bobby Rivera	Bobby Rivera	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Pete Baza	Pete Baza	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Carl Honey	Carl Honey	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	James Nico Arriola	Nico Arriola	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	KC Massey	KC Massey	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	TJ Lohr	TJ Lohr	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Aseem Grover	A Grover	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Joseph Rohrbaugh	Joseph Rohrb	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Donnie Proctor	Donnie Proct	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Michael Jakubove	Michael Jaku	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Steve Flanigan	Steve Flanig	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Justice Eagan	Justice Eaga	8BL AVG: 0	0.00	1	33-48	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Joseph Dino	Joseph Dino	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Daniel Forster	Daniel Forst	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Tito Fernandez	Tito Fernand	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Brian Murphy	Brian Murphy	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Jay Tang	Jay Tang	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Ruben Castro	Ruben Castro	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Randy Staggs	Randy Staggs	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Chris Sigman	Chris Sigman	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Daniel Hix	Daniel Hix	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Andrew Rodriguez	Andrew Rodri	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Marshal McCloskey	Marshal McCl	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Ryan Braselman	Ryan Brasel	8BL AVG: 0	0.00	1	49-64	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Michael A Jones	Michael J	8BL AVG: 0	0.00	1	65-96	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Dakota Palmer	Dakota Palme	8BL AVG: 0	0.00	1	65-96	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Eduardo L Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	65-96	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Kim Sanders	Kim Sanders	8BL AVG: 0	0.00	1	65-96	69
+Skinny_Bob_Nineball_Classic_Open_2025	Feb 15/25	9 Ball	Double	Steven Sheppard	Steven Shepp	8BL AVG: 0	0.00	1	65-96	69
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Lazaro Martinez IIi	Lazaro IIi	8BL AVG: 0	1400.00	6	WINNER	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Miguel Polanco	Miguel Polan	8BL AVG: 0	900.00	5	2nd	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Daniel Schneider	Daniel Schne	8BL AVG: 0	620.00	4	3rd	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Gabriel Martinez	Gabriel Mart	8BL AVG: 0	340.00	3	4th	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	James Davis Sr	Bastrop	8BL AVG: 0	190.00	2	5-6	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Chuck Allie	Chuck Allie	8BL AVG: 0	190.00	2	5-6	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	John Eagle	John Eagle	8BL AVG: 0	110.00	1	7-8	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	David Neumann	David Neuman	8BL AVG: 0	110.00	1	7-8	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Steven Butler	Steven Butle	8BL AVG: 0	85.00	1	9-12	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Justin Espinosa	Justin Espin	8BL AVG: 0	85.00	1	9-12	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Jude Rosenstock	Jude Rosenst	8BL AVG: 0	85.00	1	9-12	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	David Henson	David Henson	8BL AVG: 0	85.00	1	9-12	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Callum Odonnell	Callum Odonn	8BL AVG: 0	70.00	1	13-16	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Chris Sharier	Chris Sharie	8BL AVG: 0	70.00	1	13-16	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	KC Massey	KC Massey	8BL AVG: 0	70.00	1	13-16	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Hal Chase	Hal Chase	8BL AVG: 0	70.00	1	13-16	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Jeromy Hanes	Jeromy Hanes	8BL AVG: 0	0.00	1	17-24	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Daniel Perez	Daniel Perez	8BL AVG: 0	0.00	1	17-24	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Billy Mindieta	Billy Mindie	8BL AVG: 0	0.00	1	17-24	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Robert Wheat	Robert Wheat	8BL AVG: 0	0.00	1	17-24	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Sajal Ghimire	Sajal Ghimir	8BL AVG: 0	0.00	1	17-24	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Ryan Braselman	Ryan Brasel	8BL AVG: 0	0.00	1	17-24	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Danny Seay	Danny Seay	8BL AVG: 0	0.00	1	17-24	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Aro Majumder	Aro Majumder	8BL AVG: 0	0.00	1	17-24	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Jaden Dupree	Jaden Dupre	8BL AVG: 0	0.00	1	25-32	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Rafael Gonzalez	Rafael Gonza	8BL AVG: 0	0.00	1	25-32	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Michael Montes	Michael Mont	8BL AVG: 0	0.00	1	25-32	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Matt Wong	Matt Wong	8BL AVG: 0	0.00	1	25-32	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Michael Heaps	M Heaps	8BL AVG: 0	0.00	1	25-32	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Justice Eagan	Justice Eaga	8BL AVG: 0	0.00	1	25-32	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Ray Baca	Ray Baca	8BL AVG: 0	0.00	1	25-32	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Mark Eclavea	Mark Eclavea	8BL AVG: 0	0.00	1	25-32	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Tony Brashear	Tony Brashea	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Bobby Stubbs	Bubba Stubbs	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	David Sanders	David Sander	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Israel Araujo	Israel Arauj	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Evan Keesee	Evan Keesee	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Rodney Jones	Rodney Jones	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	MIchael Maloney	Micheal Malo	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Marshall Butler	Marshall But	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Kohl Bradshaw	Kohl Bradsha	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Pierre Savant	Pierre Savan	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Michael Koch	Michael Koch	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Minh Phan	Minh Phan	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Michael A Jones	Michael J	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	David Gonzalez	David Gonzal	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Loc Nguyen	Loc Nguyen	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Daniel Hix	Daniel Hix	8BL AVG: 0	0.00	1	33-48	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Danny Reid	Danny Reid	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Bryce Barton	Bryce Barton	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Gerald Wilkins	Gerald Wilk	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Tom Passow	Tom Passow	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Joshua Miller	Josh Miller	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	James Nico Arriola	Nico Arriola	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Eduardo Ramirez	Edwardo Rami	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Michael Ruston	Michael Rust	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Eddie Palmer Sr	Eddie Palmer	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open 2024	Aug 17/24	9 Ball	Double	Randy Staggs	Randy Staggs	8BL AVG: 0	0.00	1	49-64	58
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Michelle Cortez	Michelle Cor	8BL AVG: 0	470.00	6	WINNER	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Hopey Lawrence	Hopey Lawren	8BL AVG: 0	280.00	5	2nd	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Crystal Jones	Crystal J	8BL AVG: 0	190.00	4	3rd	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Liana Butler	Liana Butler	8BL AVG: 0	0.00	3	4th	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	April Gonzalez	April Gonzal	8BL AVG: 0	0.00	2	5-6	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Holly Maloney	Holly Malone	8BL AVG: 0	0.00	2	5-6	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Elizabeth Kirkman	Liz Galvan	8BL AVG: 0	0.00	1	7-8	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Lavita Butler	Lavita Butle	8BL AVG: 0	0.00	1	7-8	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Diana Cardona	Diana Cardon	8BL AVG: 0	0.00	1	9-12	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Lauren DeAtley	Lauren DeAtl	8BL AVG: 0	0.00	1	9-12	11
+Texas Open Tune Up Open Ladies 2024	Aug 17/24	9 Ball	Double	Veronica Perez	Veronica Per	8BL AVG: 0	0.00	1	9-12	11

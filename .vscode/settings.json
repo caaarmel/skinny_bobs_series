@@ -1,0 +1,12 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.autoConnectTo": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "skinny_bob_series",
+            "database": "${workspaceFolder:25 - Skinny Series}/dev/db/skinnybobs.db"
+        }
+    ]
+}

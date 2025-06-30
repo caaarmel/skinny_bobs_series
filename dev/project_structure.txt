@@ -1,0 +1,42 @@
+../
+  desktop.ini
+  file_structure.txt
+  .vscode/
+    settings.json
+  dev/
+    25 - Skinny Series.code-workspace
+    file_structure_list.py
+    html_to_text.py
+    project_structure.txt
+    requirements.txt
+    db/
+      create_view_simulated_results.sql
+      raw_insert_event_traits.sql
+      raw_insert_results.sql
+      raw_insert_unique_events.sql
+      raw_insert_unique_players.sql
+      raw_update_to_processed.sql
+      skinnybobs.db
+      update_simulated_results_points.sql
+      view_results_public.sql
+      source/
+        250620_export_raw.sql
+    sample/
+      sample_skinny_bobs_series_2025.html
+    transform/
+  export/
+  import/
+    SkinnyBobsWeeklyTourney2025_DataExport_06202025.html
+    archived/
+    cleaned/
+    logs/
+    raw/
+      temp.txt
+  misc/
+    OPENREFINE - Template v1.txt
+    openrefine_template_skinny_series.json
+    run_refine_transform.py
+    run_refine_transform_orig.py
+    run_refine_transform_orig_changed_name.py
+    temp-260615-toCarmel-txt (5).csv
+    temp_260620_skinny.txt
