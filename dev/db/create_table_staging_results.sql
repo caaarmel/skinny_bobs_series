@@ -19,13 +19,10 @@ CREATE TABLE staging_results (
     position_std INTEGER,
     roster INTEGER,
     is_weekly BOOLEAN,
-    is_monthly BOOLEAN,
-    is_major BOOLEAN,
-    is_series BOOLEAN,
-    is_league BOOLEAN,
-    is_handicap BOOLEAN,
     source_id INTEGER NOT NULL,
     created_at TEXT DEFAULT (datetime('now')),
-    processed_datetime,
+    processed_datetime TEXT,
+
+    UNIQUE (source_id),
     FOREIGN KEY (source_id) REFERENCES source_raw_results(ID)
 );

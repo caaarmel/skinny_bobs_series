@@ -32,7 +32,7 @@ def normalize_date(date_str):
         return None
 
 # Normalize position (eg 5-6 -> 5)
-def normalize_position(position):
+def normalize_position(position): 
     if position == "WINNER":
         return 1
     elif position == "2nd":
@@ -49,7 +49,9 @@ def normalize_position(position):
     
 # Normalize full name (eg "Bob Smith" -> "Bob Smith")
 def normalize_name(name):
-    if name.isupper() or name.islower():
+    if name.isupper() and len(name) < 2: 
+        return name.title() 
+    elif name.islower():
         return name.title()
     return name
 
@@ -59,53 +61,7 @@ def split_name(full_name):
     if len(parts) < 2:
         return (parts[0], "")  # Single name case
     return (" ".join(parts[:-1]), parts[-1])
-"""
-EVENT TYPES SECTION
-    # determine and flags per column what type of events this is
-"""
-weekly_event_type_keywords = ["week", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday",
-        "tue", "wed", "thu", "fri", "sat", "sun"]
 
-major_event_type_keywords = ["major", "texas open", "classic"]
-
-series_event_type_keywords = ["series"]
-
-handicap_event_type_keywords = ["handicap", "fargo", "under"]
-
-
-def flag_weekly(tourney, event_date):
-    if event_date:
-        try:
-            dt = datetime.strptime(normalize_date(event_date), "%Y-%m-%d")
-            return int(dt.weekday() < 5)  # Monday=0, Sunday=6
-        except ValueError:
-            pass
-    # fallback to keyword check in case date is missing or invalid
-    t = tourney.lower()
-    return int(any(keyword in t for keyword in weekly_event_type_keywords))
-
-def flag_monthly(tourney):
-    t = tourney.lower()
-    return int(not any(keyword in t for keyword in weekly_event_type_keywords))
-
-def flag_major(tourney):
-    t = tourney.lower()
-    return int(any(keyword in t for keyword in major_event_type_keywords))
-
-def flag_series(tourney):
-    t = tourney.lower()
-    return int(any(keyword in t for keyword in series_event_type_keywords))
-
-def flag_league(tourney):
-    return int("league" in tourney.lower())
-
-def flag_handicap(tourney):
-    t= tourney.lower()
-    return int(any(keyword in t for keyword in handicap_event_type_keywords))
-
-"""
-EVENT TYPES SECTION
-"""
 # Connect to DB and process
 def transform_records():
     conn = sqlite3.connect(DB_PATH)
@@ -142,13 +98,6 @@ def transform_records():
         position_std = normalize_position(position)
         prize_val = safe_float(prize)
         roster_val = safe_float(roster)
-        is_weekly = flag_weekly(tourney, date)
-        is_monthly = flag_monthly(tourney)
-        is_series = flag_series(tourney)
-        is_major = flag_major(tourney)
-        is_league = flag_league(tourney)
-        is_handicap = flag_handicap(tourney)
-
 
         try:
             cur.execute("""
@@ -168,15 +117,9 @@ def transform_records():
                         position,
                         position_std,
                         roster,
-                        is_weekly,
-                        is_monthly,
-                        is_major,
-                        is_series,
-                        is_league,
-                        is_handicap,
                         source_id,
                         created_at
-                    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) 
+                    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) 
                 """, (
                     tourney,
                     cleaned_tourney,
@@ -193,12 +136,6 @@ def transform_records():
                     position,
                     position_std,
                     roster_val,
-                    is_weekly,
-                    is_monthly,
-                    is_major,
-                    is_series,
-                    is_league,
-                    is_handicap,
                     id,
                     datetime.now().isoformat()
                 ))
