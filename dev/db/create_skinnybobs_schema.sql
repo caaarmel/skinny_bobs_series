@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS event_trait_assignments (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   event_id INTEGER NOT NULL,
   trait_id INTEGER NOT NULL,
-    created_at TEXT DEFAULT (datetime('now')),
+  created_at TEXT DEFAULT (datetime('now')),
   updated_at TEXT,
   FOREIGN KEY (event_id) REFERENCES events(id),
   FOREIGN KEY (trait_id) REFERENCES event_traits(id)
@@ -29,6 +29,48 @@ CREATE TABLE IF NOT EXISTS event_types (
   updated_at TEXT
 );
 
+-- event_subtypes
+/*
+drop table event_subtypes
+*/
+CREATE TABLE IF NOT EXISTS event_subtypes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,              -- e.g. 'Tuesday Weekly'
+    description TEXT, 
+    event_type_id INTEGER NOT NULL,
+
+    day_of_week INTEGER,                     --  0 = Sunday to 6 = Saturday
+    week_position INTEGER,                   -- 1 = 1st week, 2 = 2nd, ..., 5 = Last
+
+    tier INT DEFAULT 0,
+
+    created_at TEXT DEFAULT (datetime('now')),
+    updated_at TEXT,
+
+    UNIQUE(name, day_of_week, week_position),
+    FOREIGN KEY (event_type_id) REFERENCES event_types(id)
+);
+
+
+-- NEW: events_classification_history table
+
+CREATE TABLE IF NOT EXISTS events_classification_history (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  event_id INTEGER NOT NULL,
+  old_event_subtype_id INTEGER, -- previous subtype ID
+  new_event_subtype_id INTEGER, -- new subtype ID
+  method TEXT NOT NULL, -- e.g., 'manual', 'auto', 'reviewed'
+  confidence REAL DEFAULT 0.0, -- confidence level of classification (0.0 to 1.0)
+  notes TEXT, -- additional notes on the classification change
+  created_at TEXT DEFAULT (datetime('now')),
+  created_by TEXT DEFAULT 'system', -- who made the change, default to 'system' for automated changes
+
+  FOREIGN KEY (event_id) REFERENCES events(id),
+  FOREIGN KEY (old_event_subtype_id) REFERENCES event_subtypes(id),
+  FOREIGN KEY (new_event_subtype_id) REFERENCES event_subtypes(id)
+);
+
+
 -- events table
 /*
 drop table events;
@@ -43,37 +85,22 @@ CREATE TABLE IF NOT EXISTS events (
   season_id INTEGER NOT NULL,
   event_type_id INTEGER,        -- general type: weekly, monthly, etc.
   event_subtype_id INTEGER,     -- more specific: 'Tuesday Weekly', 'Friday Chip'
+
+  -- Management fields for classification
+  manual_override INTEGER DEFAULT 0, -- 0 = auto-detected, 1 = manually overridden
+  classification_confidence REAL DEFAULT 0.0, -- confidence level of classification (0.0 to 1.0)
+  needs_review INTEGER, -- 0 = no review needed, 1 = needs review
+  classification_notes TEXT, -- notes on classification decisions
+
   created_at TEXT DEFAULT (datetime('now')),
   updated_at TEXT,
 
-  UNIQUE (tourney_slug, date),
+
+  UNIQUE (tourney_slug, date), 
 
   FOREIGN KEY (season_id) REFERENCES seasons(id),
   FOREIGN KEY (event_type_id) REFERENCES event_types(id),
   FOREIGN KEY (event_subtype_id) REFERENCES event_subtypes(id)
-);
-
-
--- event_subtypes
-/*
-drop table event_subtypes
-*/
-CREATE TABLE IF NOT EXISTS event_subtypes (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    name TEXT NOT NULL,               -- e.g. 'Tuesday Weekly'
-    description TEXT, 
-    event_type_id INTEGER NOT NULL,
-
-    day_of_week INTEGER,                     --  0 = Sunday to 6 = Saturday
-    week_position INTEGER,                   -- 1 = 1st week, 2 = 2nd, ..., 5 = Last
-
-    tier INT DEFAULT 0,
-
-    created_at TEXT DEFAULT (datetime('now')),
-    updated_at TEXT,
-
-    UNIQUE(name, day_of_week, week_position)
-    FOREIGN KEY (event_type_id) REFERENCES event_types(id)
 );
 
 
@@ -92,7 +119,7 @@ CREATE TABLE IF NOT EXISTS players (
 -- point_structures
 CREATE TABLE IF NOT EXISTS point_structures (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    season_id_start INTEGER NOT NULL,
+    season_id_start INTEGER NOT NULL, --references the season table of when these point structures are used
     season_id_end INTEGER,
     event_subtype_id INTEGER NOT NULL,
     min_position INTEGER NOT NULL,       -- e.g. 1, 2, 3, 4, 5, 7, 9, 13
@@ -106,30 +133,10 @@ CREATE TABLE IF NOT EXISTS point_structures (
     updated_at TEXT,
 
     UNIQUE(season_id_start, event_subtype_id, min_position, max_position, min_players, max_players),
-    FOREIGN KEY (event_subtype_id) REFERENCES event_subtypes(id)
-    FOREIGN KEY (season_id_start) REFERENCES seasons(id)
+    FOREIGN KEY (event_subtype_id) REFERENCES event_subtypes(id),
+    FOREIGN KEY (season_id_start) REFERENCES seasons(id),
     FOREIGN KEY (season_id_end) REFERENCES seasons(id)
 );
-
-
--- -- results table
--- CREATE TABLE if NOT EXISTS results (
---   id INTEGER PRIMARY KEY,
---   player_id INTEGER NOT NULL,
---   event_id INTEGER NOT NULL,
---   prize REAL,
---   points INTEGER,
---   position_orig TEXT,
---   position_std INTEGER,
---   source_id INTEGER NOT NULL,
---   created_at TEXT DEFAULT (datetime('now')),
---   updated_at TEXT,
---   UNIQUE (player_id, event_id),
---   FOREIGN KEY (player_id) REFERENCES players(id),
---   FOREIGN KEY (event_id) REFERENCES events(id),
---   FOREIGN KEY (source_id) REFERENCES source_raw_results(id)
--- );
-
 
 -- seasons table
 CREATE TABLE IF NOT EXISTS seasons (
