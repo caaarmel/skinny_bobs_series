@@ -2,7 +2,7 @@
 
 DROP TABLE IF EXISTS events;
 DROP TABLE IF EXISTS players;
-DROP TABLE IF EXISTS results;
+
 
 
 /*

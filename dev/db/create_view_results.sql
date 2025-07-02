@@ -12,5 +12,4 @@ SELECT
   NULL AS updated_at  -- optional if you don’t track updates
 FROM staging_results sr
 JOIN players p ON p.full_name = sr.FULL_NAME
-JOIN events e ON e.tourney_slug = sr.TOURNEY AND e.date = sr.DATE
---WHERE sr.processed_datetime IS NOT NULL;
+JOIN events e ON e.tourney_slug = sr.TOURNEY AND e.date = sr.DATE;
