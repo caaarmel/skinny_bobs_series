@@ -119,6 +119,7 @@ CREATE TABLE IF NOT EXISTS players (
 -- point_structures
 CREATE TABLE IF NOT EXISTS point_structures (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT,
     season_id_start INTEGER NOT NULL, --references the season table of when these point structures are used
     season_id_end INTEGER,
     event_subtype_id INTEGER NOT NULL,

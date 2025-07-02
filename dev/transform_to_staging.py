@@ -32,7 +32,7 @@ def normalize_date(date_str):
         return None
 
 # Normalize position (eg 5-6 -> 5)
-def normalize_position(position): 
+def normalize_position(position,roster_val): 
     if position == "WINNER":
         return 1
     elif position == "2nd":
@@ -43,7 +43,10 @@ def normalize_position(position):
         return 4        
     else:
         try:
-            return int(position.split("-")[0])
+            if int(position.split("-")[0]) > roster_val:
+                return roster_val
+            else:
+                return int(position.split("-")[0])
         except ValueError:
             return None
     
@@ -95,9 +98,9 @@ def transform_records():
         formatted_date = normalize_date(date)
         normalized_name = normalize_name(full_name)
         first_name, last_name = split_name(normalized_name)
-        position_std = normalize_position(position)
         prize_val = safe_float(prize)
         roster_val = safe_float(roster)
+        position_std = normalize_position(position, roster_val)
 
         try:
             cur.execute("""
