@@ -241,7 +241,7 @@ standingsData.forEach((player, index) => {{
   
   // Build tournament history
   const historyHtml = player.history && player.history.length > 0 ? 
-    player.history.slice(0, 10).map(function(r) {{
+    player.history.map(function(r) {{
       let place = r.position_orig;
       if (place?.toLowerCase() === "winner") place = "1st";
       const points = r.points !== undefined && r.points !== null ? ` (${{r.points}} pts)` : "";
@@ -250,7 +250,7 @@ standingsData.forEach((player, index) => {{
     }}).join('') : '<li>No tournament history available</li>';
   
   const showingNote = player.history && player.history.length > 10 ? 
-    `<li><em>Showing most recent 10 of ${{player.history.length}} tournaments</em></li>` : '';
+    `<li><em>Showing all ${{player.history.length}} tournaments</em></li>` : '';
   
   details.innerHTML = `
     <td colspan="9" style="padding: 1rem;">
