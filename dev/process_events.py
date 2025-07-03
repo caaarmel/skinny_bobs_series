@@ -195,7 +195,7 @@ def classify_event_subtype(tourney_name, tourney_clean, date):
     # Major patterns
     if (weekday == 6 or weekday == 0) and not(any(word in tourney_lower for word in ["week", "night", "mini"])) and any(word in tourney_lower for word in ["classic", "texas open"]): 
         return(SUBTYPE_IDS.get("Standard Major"),
-               TYPE_IDS.get("monthly"),
+               TYPE_IDS.get("major"),
                0.4, f"Low confidence, standard major {weekday_name} event based on tourney date and name")
     
     # Series Patterns

@@ -3,14 +3,15 @@
 -- Replaces static points from imports with dynamic calculated points
 
 -- DROP existing views first
-DROP VIEW IF EXISTS results;
 DROP VIEW IF EXISTS results_public;
+DROP VIEW IF EXISTS season_standings;
 DROP VIEW IF EXISTS season_2025_standings;
 
 
 -- PUBLIC RESULTS VIEW for external display
 CREATE VIEW iF NOT EXISTS results_public AS
 select distinct
+s.name as season,
 e.tourney_name as tournament,
 e.date,
 e.roster as total_players,
@@ -21,7 +22,7 @@ case when r.position_std = 1 then "1st"
     else r.position
     end as position_orig,
 r.position_std,
-ifnull(ps.points_awarded,0) as points_awarded,
+ifnull(ps.points_awarded,0) as points,
 et.name as event_type_name,
 
 p.first_name,
@@ -41,6 +42,7 @@ r.processed_datetime
 from staging_results r 
 left outer join players p on r.full_name = p.full_name
 left outer join events e on r.tourney = e.tourney_slug and r.date = e.date
+left outer join seasons s on e.season_id = s.id
 left outer join event_types et on e.event_type_id = et.id
 left outer join event_subtypes es on e.event_subtype_id = es.id
 left outer join point_structures ps
@@ -49,10 +51,94 @@ left outer join point_structures ps
     and (e.roster between ps.min_players and ifnull(ps.max_players,999) )
     and (r.position_std between ps.min_position and ifnull(ps.max_position,999))
     and (r.position_std between ps.min_position and ifnull(ps.max_players,999))
-order by e.date, r.position_std, p.first_name
+order by s.name desc, e.date, r.position_std, p.first_name
 ;
 
 -- SEASON STANDINGS VIEW (Core Leaderboard) with calculated points
+CREATE VIEW season_standings AS
+SELECT
+    rp.season,
+    rp.full_name AS player,
+
+    -- Core Statistics
+    SUM(rp.points) AS total_pts,  -- Main ranking criteria
+    COUNT(rp.event_id) AS total_events,
+    COUNT(CASE WHEN rp.position_std = 1 THEN 1 END) AS wins,
+    COUNT(CASE WHEN rp.position_std <= 3 THEN 1 END) AS top_3,
+    COUNT(CASE WHEN rp.position_std <= 8 THEN 1 END) AS top_8,
+
+    -- Event Type Breakdown (excluding series and league)
+    COUNT(CASE WHEN rp.event_type_name = 'weekly' THEN 1 END) AS weekly_events,
+    COUNT(CASE WHEN rp.event_type_name = 'monthly' THEN 1 END) AS monthly_events, 
+    COUNT(CASE WHEN rp.event_type_name = 'major' THEN 1 END) AS major_events,
+
+    -- Performance Metrics (as percentages)
+    ROUND(
+    (COUNT(CASE WHEN rp.position_std = 1 THEN 1 END) * 100.0) / COUNT(rp.event_id), 
+    1
+    ) AS win_rate_pct,
+    ROUND(
+    (COUNT(CASE WHEN rp.position_std <= 3 THEN 1 END) * 100.0) / COUNT(rp.event_id), 
+    1
+    ) AS top_3_pct,
+
+    -- Activity
+    date(MAX(rp.date)) AS last_played
+
+FROM results_public rp
+
+-- Filter out series and league events
+WHERE rp.event_id IS NOT NULL  -- Ensure valid events
+  AND rp.event_type_name NOT IN ('series', 'league')
+
+GROUP BY rp.full_name, rp.season
+ORDER BY rp.season desc,
+    SUM(rp.points) DESC NULLS LAST, 
+    COUNT(CASE WHEN rp.position_std = 1 THEN 1 END) DESC, 
+    COUNT(CASE WHEN rp.position_std <= 3 THEN 1 END) DESC;
+
+
+-- FAKE!!! ALL POINTS FROM 2024 and 2025
+CREATE VIEW season_2025_standings AS
+SELECT
+    rp.full_name AS player,
+
+    -- Core Statistics
+    SUM(rp.points) AS total_pts,  -- Main ranking criteria
+    COUNT(rp.event_id) AS total_events,
+    COUNT(CASE WHEN rp.position_std = 1 THEN 1 END) AS wins,
+    COUNT(CASE WHEN rp.position_std <= 3 THEN 1 END) AS top_3,
+    COUNT(CASE WHEN rp.position_std <= 8 THEN 1 END) AS top_8,
+
+    -- Event Type Breakdown (excluding series and league)
+    COUNT(CASE WHEN rp.event_type_name = 'weekly' THEN 1 END) AS weekly_events,
+    COUNT(CASE WHEN rp.event_type_name = 'monthly' THEN 1 END) AS monthly_events, 
+    COUNT(CASE WHEN rp.event_type_name = 'major' THEN 1 END) AS major_events,
+
+    -- Performance Metrics (as percentages)
+    ROUND(
+    (COUNT(CASE WHEN rp.position_std = 1 THEN 1 END) * 100.0) / COUNT(rp.event_id), 
+    1
+    ) AS win_rate_pct,
+    ROUND(
+    (COUNT(CASE WHEN rp.position_std <= 3 THEN 1 END) * 100.0) / COUNT(rp.event_id), 
+    1
+    ) AS top_3_pct,
+
+    -- Activity
+    date(MAX(rp.date)) AS last_played
+
+FROM results_public rp
+
+-- Filter out series and league events
+WHERE rp.event_id IS NOT NULL  -- Ensure valid events
+  AND rp.event_type_name NOT IN ('series', 'league')
+
+GROUP BY rp.full_name
+ORDER BY 
+    SUM(rp.points) DESC NULLS LAST, 
+    COUNT(CASE WHEN rp.position_std = 1 THEN 1 END) DESC, 
+    COUNT(CASE WHEN rp.position_std <= 3 THEN 1 END) DESC;
 
 
 -- VALIDATION QUERIES to test the point calculations

@@ -23,4 +23,4 @@ LEFT OUTER JOIN event_subtypes es on es.event_type_id = et.id
  
 
 -- select * from events where tourney_name = "8 Ball Tournament"
--- select distinct tourney, is_weekly, is_monthly, is_major, is_series, is_league, is_handicap  from staging_results where tourney like "8%ball%"
+-- select distinct tourney, is_weekly, is_monthly, is_major, is_series, is_league, is_handicap  from staging_results where tourney like "8%ball%"CREATE VIEW season_2025_standings AS
