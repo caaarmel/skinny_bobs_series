@@ -7,106 +7,53 @@ DROP VIEW IF EXISTS results;
 DROP VIEW IF EXISTS results_public;
 DROP VIEW IF EXISTS season_2025_standings;
 
--- MAIN RESULTS VIEW with calculated points
-CREATE VIEW results AS
-SELECT
-  sr.id AS id,
-  p.id AS player_id,
-  e.id AS event_id,
-  sr.prize AS prize,
-  
-  -- CALCULATED POINTS: Look up from point_structures table
-  -- Use subquery to find the BEST matching point structure (highest min_players that qualifies)
-  COALESCE((
-    SELECT ps.points_awarded
-    FROM point_structures ps
-    WHERE ps.event_subtype_id = e.event_subtype_id
-      AND sr.position_std >= ps.min_position 
-      AND (ps.max_position IS NULL OR sr.position_std <= ps.max_position)
-      AND e.roster >= ps.min_players
-      AND (ps.max_players IS NULL OR e.roster <= ps.max_players)
-      AND ps.season_id_start <= e.season_id
-      AND (ps.season_id_end IS NULL OR ps.season_id_end >= e.season_id)
-      AND ps.is_active = 1
-    ORDER BY ps.min_players DESC  -- Get the most specific bracket (highest min_players)
-    LIMIT 1
-  ), 0) AS points,
-  
-  sr.position AS position_orig,
-  sr.position_std AS position_std,
-  sr.id AS source_id,
-  sr.processed_datetime AS created_at,
-  NULL AS updated_at,
-  
-  -- Additional useful fields for analysis
-  e.roster AS event_roster,
-  e.event_subtype_id AS event_subtype_id,
-  es.name AS event_subtype_name,
-  es.tier AS event_subtype_tier,
-  et.name AS event_type_name
-
-FROM staging_results sr
-JOIN players p ON p.full_name = sr.full_name
-JOIN events e ON e.tourney_slug = sr.tourney AND e.date = sr.date
-LEFT JOIN event_subtypes es ON e.event_subtype_id = es.id
-LEFT JOIN event_types et ON e.event_type_id = et.id;
 
 -- PUBLIC RESULTS VIEW for external display
-CREATE VIEW results_public AS
-SELECT
-  p.full_name AS "Player",
-  e.tourney_name AS "Tournament", 
-  strftime('%Y-%m-%d', e.date) AS "Date",
-  CASE WHEN r.position_std = 1 THEN "1st"
-       ELSE r.position_orig 
-       END AS "Place Original",
-  r.position_std AS "Place",
-  r.points AS "Points",  -- Now using calculated points
-  r.prize AS "Prize",
-  r.event_type_name AS "Event Type",
-  r.event_subtype_name AS "Event Subtype",
-  r.event_subtype_tier AS "Tier",
-  e.roster AS "Players"
-FROM results r
-JOIN players p ON r.player_id = p.id  
-JOIN events e ON r.event_id = e.id
-ORDER BY e.date DESC;
+CREATE VIEW iF NOT EXISTS results_public AS
+select distinct
+e.tourney_name as tournament,
+e.date,
+e.roster as total_players,
+es.name as event_subtype,
+ps.name as pt_structure,
+p.full_name,
+case when r.position_std = 1 then "1st"
+    else r.position
+    end as position_orig,
+r.position_std,
+ifnull(ps.points_awarded,0) as points_awarded,
+et.name as event_type_name,
+
+p.first_name,
+p.last_name,
+p.alias,
+
+e.id as event_id,
+e.event_type_id,
+e.event_subtype_id,
+ps.id as ps_id,
+ps.min_position as ps_min_pos,
+ps.max_position as ps_max_pos,
+r.source_id,
+r.created_at,
+r.processed_datetime
+
+from staging_results r 
+left outer join players p on r.full_name = p.full_name
+left outer join events e on r.tourney = e.tourney_slug and r.date = e.date
+left outer join event_types et on e.event_type_id = et.id
+left outer join event_subtypes es on e.event_subtype_id = es.id
+left outer join point_structures ps
+    on e.event_subtype_id = ps.event_subtype_id
+    and (e.season_id between ps.season_id_start and ifnull(ps.season_id_end,99))
+    and (e.roster between ps.min_players and ifnull(ps.max_players,999) )
+    and (r.position_std between ps.min_position and ifnull(ps.max_position,999))
+    and (r.position_std between ps.min_position and ifnull(ps.max_players,999))
+order by e.date, r.position_std, p.first_name
+;
 
 -- SEASON STANDINGS VIEW (Core Leaderboard) with calculated points
-CREATE VIEW season_2025_standings AS
-SELECT
-  p.full_name AS "Player",
-  
-  -- Core Statistics
-  SUM(r.points) AS "Total Points",  -- Main ranking criteria
-  COUNT(r.id) AS "Total Events",
-  COUNT(CASE WHEN r.position_std = 1 THEN 1 END) AS "Wins",
-  COUNT(CASE WHEN r.position_std <= 3 THEN 1 END) AS "Top 3",
-  COUNT(CASE WHEN r.position_std <= 8 THEN 1 END) AS "Top 8",
-  
-  -- Performance Metrics (as percentages)
-  ROUND(
-    (COUNT(CASE WHEN r.position_std = 1 THEN 1 END) * 100.0) / COUNT(r.id), 
-    1
-  ) AS "Win Rate %",
-  ROUND(
-    (COUNT(CASE WHEN r.position_std <= 3 THEN 1 END) * 100.0) / COUNT(r.id), 
-    1
-  ) AS "Top 3 Rate %",
-  
-  -- Activity
-  date(MAX(e.date)) AS "Last Played"
 
-FROM results r
-JOIN players p ON r.player_id = p.id
-JOIN events e ON r.event_id = e.id
-
-WHERE e.season_id = 1
-
-GROUP BY p.full_name
-ORDER BY SUM(r.points) DESC NULLS LAST, 
-         COUNT(CASE WHEN r.position_std = 1 THEN 1 END) DESC, 
-         COUNT(CASE WHEN r.position_std <= 3 THEN 1 END) DESC;
 
 -- VALIDATION QUERIES to test the point calculations
 
